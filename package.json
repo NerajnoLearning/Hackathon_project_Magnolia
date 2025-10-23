@@ -1,0 +1,43 @@
+{
+  "name": "hackathon_project_magnolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerajnoLearning/Hackathon_project_Magnolia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerajnoLearning/Hackathon_project_Magnolia/issues"
+  },
+  "homepage": "https://github.com/NerajnoLearning/Hackathon_project_Magnolia#readme",
+  "dependencies": {
+    "@progress/kendo-theme-default": "^12.1.0",
+    "@progress/kendo-vue-buttons": "^7.0.0",
+    "@progress/kendo-vue-dialogs": "^7.0.0",
+    "@progress/kendo-vue-dropdowns": "^7.0.0",
+    "@progress/kendo-vue-grid": "^7.0.0",
+    "@progress/kendo-vue-inputs": "^7.0.0",
+    "@progress/kendo-vue-layout": "^7.0.0",
+    "@progress/kendo-vue-notification": "^7.0.0",
+    "@progress/kendo-vue-progressbars": "^7.0.0",
+    "vue": "^3.5.22"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.15",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.15",
+    "vite": "^7.1.11"
+  }
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "multi-venue-fondren-fun",
+    "name": "Multi-Venue Fondren Fun",
+    "category": "Attraction",
+    "description": "",
+    "address": "3017-3025 North State Street, Jackson, MS 39216",
+    "phone": "(601) 487-9520",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "eudora-welty-house-garden",
+    "name": "Eudora Welty House & Garden",
+    "category": "Historic Home",
+    "description": "",
+    "address": "1119 Pinehurst Street, Jackson, MS 39202",
+    "phone": "(601) 353-7762",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "international-museum-of-muslim-cultures",
+    "name": "International Museum of Muslim Cultures",
+    "category": "Museum",
+    "description": "",
+    "address": "201 E Pascagoula Street, Jackson, MS 39201",
+    "phone": "(601) 960-0440",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "lefleurs-bluff-state-park",
+    "name": "LeFleur’s Bluff State Park & Playground",
+    "category": "Park",
+    "description": "",
+    "address": "Museum Drive at Riverside Park Circle, Jackson, MS 39216",
+    "phone": "(601) 432-2239",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-museum-of-natural-science",
+    "name": "Mississippi Museum of Natural Science",
+    "category": "Museum",
+    "description": "",
+    "address": "2148 Riverside Drive, Jackson, MS 39202",
+    "phone": "(601) 576-6000",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-agriculture-forestry-museum",
+    "name": "Mississippi Agriculture & Forestry Museum",
+    "category": "Museum",
+    "description": "",
+    "address": "1150 Lakeland Drive, Jackson, MS 39216",
+    "phone": "(601) 432-4500",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-childrens-museum",
+    "name": "Mississippi Children’s Museum",
+    "category": "Family & Kids",
+    "description": "",
+    "address": "2145 Museum Drive, Jackson, MS 39202",
+    "phone": "(601) 981-5469",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-civil-rights-museum",
+    "name": "Mississippi Civil Rights Museum",
+    "category": "Museum – History",
+    "description": "",
+    "address": "222 North Street, Jackson, MS 39201",
+    "phone": "(601) 576-6800",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-museum-of-art",
+    "name": "Mississippi Museum of Art",
+    "category": "Art Museum",
+    "description": "",
+    "address": "380 South Lamar Street, Jackson, MS 39201",
+    "phone": "(601) 960-1515",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "mississippi-sports-hall-of-fame",
+    "name": "Mississippi Sports Hall of Fame & Museum",
+    "category": " Museum",
+    "description": "",
+    "address": "1152 Lakeland Drive, Jackson, MS 39216",
+    "phone": "(601) 982-8264",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "museum-of-mississippi-history",
+    "name": "Museum of Mississippi History",
+    "category": "Museum",
+    "description": "",
+    "address": "222 North Street, Jackson, MS 39201",
+    "phone": "(601) 576-6800",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "museum-trail",
+    "name": "Museum Trail",
+    "category": "Outdoor Trail",
+    "description": "",
+    "address": "707 Monroe Street, Jackson, MS 39202",
+    "phone": "(601) 960-0471",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "smith-robertson-museum-cultural-center",
+    "name": "Smith Robertson Museum & Cultural Center",
+    "category": "Attraction / Museum – African American History",
+    "description": "",
+    "address": "528 Bloom Street, Jackson, MS 39202",
+    "phone": "(601) 960-1457",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "alamo-theatre",
+    "name": "Alamo Theatre",
+    "category": "Historic Landmark Theatre",
+    "description": "",
+    "address": "333 North Farish Street, Jackson, MS 39202",
+    "phone": "(601) 352-3365",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "thalia-mara-hall",
+    "name": "Thalia Mara Hall",
+    "category": "Performance Venue",
+    "description": "City auditorium and home of the USA International Ballet Competition.",
+    "address": "225 E. Pascagoula Street, Mississippi Arts Complex, Jackson, MS 39201",
+    "phone": "(601) 960-1537",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "new-stage-theatre",
+    "name": "New Stage Theatre",
+    "category": "Theatre",
+    "description": "Regional professional theatre located in Belhaven.",
+    "address": "1100 Carlisle Street, Jackson, MS",
+    "phone": "(601) 948-3531",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "old-capitol-museum",
+    "name": "Old Capitol Museum",
+    "category": "Historic Museum",
+    "description": "Original Mississippi State Capitol building, now a museum.",
+    "address": "100 South State Street, Jackson, MS",
+    "phone": "(601) 576-6920",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "pete-brown-golf-facility",
+    "name": "Pete Brown Golf Facility",
+    "category": "Recreation – Golf",
+    "description": "City-owned 18-hole championship golf course with driving range.",
+    "address": "3200 Woodrow Wilson Avenue, Jackson, MS 39209",
+    "phone": "(601) 960-1905",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "smith-park",
+    "name": "Smith Park",
+    "category": "Outdoor Park",
+    "description": "Downtown green space with an amphitheater.",
+    "address": "302 Amite Street, Jackson, MS",
+    "phone": "(601) 960-0471",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "tougaloo-college",
+    "name": "Tougaloo College",
+    "category": "Historic Campus",
+    "description": "Historic HBCU campus with art galleries and architecture.",
+    "address": "500 W County Line Road, Tougaloo, MS 39174",
+    "phone": "(601) 977-7700",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "war-memorial-building",
+    "name": "War Memorial Building",
+    "category": "Historic Monument",
+    "description": "Dedicated to Mississippi casualties of war.",
+    "address": "120 South State Street, Jackson, MS 39201",
+    "phone": "(601) 354-7207",
+    "website": "",
+    "image": ""
+  },
+  {
+    "id": "william-f-winter-archives-history-building",
+    "name": "William F. Winter Archives and History Building",
+    "category": "Archive & History Center",
+    "description": "State archives and history facility.",
+    "address": "200 North Street, Jackson, MS 39201",
+    "phone": "(601) 576-6850",
+    "website": "",
+    "image": ""
+  }
+]

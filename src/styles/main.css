@@ -1,0 +1,62 @@
+@import "tailwindcss";
+@config "../../tailwind.config.js";
+
+/* Custom base styles */
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+/* Custom utilities */
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-shadow-md {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .text-gradient {
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
+
+/* Custom component styles */
+@layer components {
+  .card {
+    @apply bg-white rounded-xl p-6 shadow-soft hover:shadow-medium 
+           transition-all duration-300 hover:-translate-y-0.5;
+  }
+
+  .card-bordered {
+    @apply bg-white rounded-xl p-6 border border-gray-200
+           transition-all duration-300 hover:border-primary-500 hover:shadow-soft;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-primary-500 text-white rounded-lg font-medium
+           transition-all duration-200 hover:bg-primary-600 
+           hover:-translate-y-px hover:shadow-soft
+           active:translate-y-0 active:shadow-none;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300
+           transition-colors duration-200 font-medium;
+  }
+
+  .btn-jackson {
+    @apply px-6 py-3 text-white rounded-lg font-medium
+           transition-all duration-200 hover:-translate-y-px hover:shadow-medium;
+    background: linear-gradient(135deg, #0066CC, #00AA44);
+  }
+}
