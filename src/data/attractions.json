@@ -2,221 +2,1888 @@
   {
     "id": "multi-venue-fondren-fun",
     "name": "Multi-Venue Fondren Fun",
-    "category": "Attraction",
-    "description": "",
+    "category": "Entertainment Complex",
+    "subcategory": "Multi-Venue",
+    "description": "Jackson's only multi-venue entertainment destination featuring Highball Lanes bowling alley with 10 lanes and full bar, the historic Capri Theater showing independent films, outdoor Fondren Yard with live music events, and multiple dining options. Perfect for date nights, group outings, and family entertainment.",
+    "highlights": [
+      "10-lane boutique bowling alley with cosmic bowling nights",
+      "Historic Capri Theater with arthouse films",
+      "Outdoor concert venue at Fondren Yard",
+      "Multiple bars and restaurants on-site",
+      "Regular trivia nights and special events"
+    ],
     "address": "3017-3025 North State Street, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3354,
+      "longitude": -90.1765
+    },
+    "neighborhood": "Fondren District",
+    "distance_from_downtown": "4.2 miles",
     "phone": "(601) 487-9520",
-    "website": "",
-    "image": ""
+    "website": "https://www.theblockatfondren.com",
+    "hours": {
+      "monday": "4:00 PM - 10:00 PM",
+      "tuesday": "4:00 PM - 10:00 PM",
+      "wednesday": "4:00 PM - 10:00 PM",
+      "thursday": "4:00 PM - 11:00 PM",
+      "friday": "4:00 PM - 12:00 AM",
+      "saturday": "11:00 AM - 12:00 AM",
+      "sunday": "12:00 PM - 9:00 PM"
+    },
+    "admission": {
+      "general": "Free entry to complex",
+      "bowling": "$5-8/game plus $4 shoe rental",
+      "theater": "$12 general, $10 seniors/students",
+      "notes": "Event prices vary"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free lot and street parking",
+      "spaces": "150+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "All venues wheelchair accessible, elevator to second floor"
+    },
+    "duration": "2-4 hours",
+    "best_for": ["Date nights", "Groups", "Families with teens", "Young professionals"],
+    "seasonal_notes": "Outdoor events weather-dependent; check website for Fondren Yard schedule",
+    "nearby_attractions": ["mississippi-museum-of-art", "lefleurs-bluff-state-park"],
+    "transportation": {
+      "public_transit": "JATRAN Route 13 stops nearby",
+      "rideshare": "Uber/Lyft readily available"
+    },
+    "social_media": {
+      "instagram": "@theblockatfondren",
+      "facebook": "theblockatfondren",
+      "twitter": "@fondrenfun"
+    },
+    "hashtags": ["#FondrenFun", "#JacksonMS", "#HighballLanes"],
+    "reviews": {
+      "google": "4.5/5 (800+ reviews)",
+      "tripadvisor": "4.0/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "events@theblockatfondren.com",
+      "min_size": 10
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Multiple venues available",
+      "capacity": "Up to 500 guests combined"
+    },
+    "images": [
+      {
+        "url": "https://example.com/fondren-exterior.jpg",
+        "caption": "Fondren entertainment complex exterior",
+        "credit": "The Block at Fondren"
+      },
+      {
+        "url": "https://example.com/highball-lanes.jpg",
+        "caption": "Highball Lanes bowling alley",
+        "credit": "The Block at Fondren"
+      }
+    ],
+    "virtual_tour": "https://www.theblockatfondren.com/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "eudora-welty-house-garden",
     "name": "Eudora Welty House & Garden",
-    "category": "Historic Home",
-    "description": "",
+    "category": "Historic Site",
+    "subcategory": "Literary Landmark",
+    "description": "Preserved home of Pulitzer Prize-winning author Eudora Welty, featuring her original furnishings, personal belongings, and extensive garden. This National Historic Landmark offers intimate guided tours through rooms where Welty wrote her celebrated works, providing insights into Mississippi's literary heritage and the author's daily life from 1925-2001.",
+    "highlights": [
+      "Original 1920s Tudor Revival home with period furnishings",
+      "Author's writing room preserved exactly as she left it",
+      "Historic garden designed by Welty's mother in 1925",
+      "Collection of first editions and personal photographs",
+      "National Historic Landmark designation"
+    ],
     "address": "1119 Pinehurst Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3215,
+      "longitude": -90.1823
+    },
+    "neighborhood": "Belhaven",
+    "distance_from_downtown": "2.1 miles",
     "phone": "(601) 353-7762",
-    "website": "",
-    "image": ""
+    "website": "http://www.eudoraweltyhouse.com",
+    "hours": {
+      "tuesday": "9:00 AM - 3:00 PM",
+      "wednesday": "9:00 AM - 3:00 PM",
+      "thursday": "9:00 AM - 3:00 PM",
+      "friday": "9:00 AM - 3:00 PM",
+      "saturday": "Closed",
+      "sunday": "Closed",
+      "monday": "Closed",
+      "notes": "Tours on the hour, last tour at 3:00 PM"
+    },
+    "admission": {
+      "adults": "$10",
+      "seniors": "$8",
+      "students": "$5",
+      "children_under_6": "Free",
+      "notes": "Garden visit free with house tour"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "20"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "First floor accessible, second floor by stairs only. Garden paths partially accessible."
+    },
+    "duration": "1-1.5 hours",
+    "best_for": ["Literature enthusiasts", "History buffs", "Garden lovers", "Students"],
+    "seasonal_notes": "Garden best viewed March-October; house climate-controlled year-round",
+    "nearby_attractions": ["mississippi-museum-of-art", "old-capitol-museum"],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Uber/Lyft available"
+    },
+    "social_media": {
+      "instagram": "@eudoraweltyhouse",
+      "facebook": "EudoraWeltyHouse",
+      "twitter": "@WeltyHouse"
+    },
+    "hashtags": ["#EudoraWelty", "#LiteraryLandmark", "#JacksonMS"],
+    "reviews": {
+      "google": "4.7/5 (250+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 353-7762",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Garden only",
+      "capacity": "Up to 100 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/welty-house-exterior.jpg",
+        "caption": "Tudor Revival style home exterior",
+        "credit": "Eudora Welty Foundation"
+      },
+      {
+        "url": "https://example.com/welty-garden.jpg",
+        "caption": "Historic garden in spring bloom",
+        "credit": "Eudora Welty Foundation"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "international-museum-of-muslim-cultures",
     "name": "International Museum of Muslim Cultures",
     "category": "Museum",
-    "description": "",
+    "subcategory": "Cultural History",
+    "description": "America's first museum dedicated to Islamic history and culture, featuring rotating exhibitions on global Muslim contributions to civilization. Notable permanent collections include rare West African manuscripts, exhibits on Moorish Spain's golden age, and contemporary Islamic art. Educational programs promote interfaith dialogue and cultural understanding.",
+    "highlights": [
+      "Rare collection of Timbuktu manuscripts from Mali",
+      "Legacy of Timbuktu exhibition on African Islamic scholarship",
+      "Islamic Spain: Memory of Al-Andalus exhibit",
+      "Educational programs for schools and community groups",
+      "First and only museum of its kind in America"
+    ],
     "address": "201 E Pascagoula Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3012,
+      "longitude": -90.1848
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.3 miles",
     "phone": "(601) 960-0440",
-    "website": "",
-    "image": ""
+    "website": "https://www.immcus.org",
+    "hours": {
+      "tuesday": "10:00 AM - 5:00 PM",
+      "wednesday": "10:00 AM - 5:00 PM",
+      "thursday": "10:00 AM - 5:00 PM",
+      "friday": "10:00 AM - 5:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed",
+      "monday": "Closed"
+    },
+    "admission": {
+      "adults": "$7",
+      "seniors": "$5",
+      "students": "$5",
+      "children_under_5": "Free",
+      "notes": "Group discounts available"
+    },
+    "parking": {
+      "available": true,
+      "type": "Street parking and nearby lots",
+      "spaces": "Varies"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully accessible facility with elevator"
+    },
+    "duration": "1-2 hours",
+    "best_for": ["Cultural education", "Students", "Interfaith groups", "History enthusiasts"],
+    "seasonal_notes": "Special programs during Ramadan and Black History Month",
+    "nearby_attractions": ["mississippi-civil-rights-museum", "museum-of-mississippi-history"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easily accessible"
+    },
+    "social_media": {
+      "instagram": "@immcus",
+      "facebook": "IMMCUS",
+      "twitter": "@IMMCUS"
+    },
+    "hashtags": ["#IMMCUS", "#IslamicCulture", "#JacksonMuseums"],
+    "reviews": {
+      "google": "4.6/5 (150+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "education@immcus.org",
+      "min_size": 10,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Conference room and gallery",
+      "capacity": "Up to 150 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/immcus-gallery.jpg",
+        "caption": "Main gallery exhibition space",
+        "credit": "IMMCUS"
+      },
+      {
+        "url": "https://example.com/manuscript-display.jpg",
+        "caption": "Rare West African manuscripts",
+        "credit": "IMMCUS"
+      }
+    ],
+    "virtual_tour": "https://www.immcus.org/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "lefleurs-bluff-state-park",
-    "name": "LeFleur’s Bluff State Park & Playground",
-    "category": "Park",
-    "description": "",
-    "address": "Museum Drive at Riverside Park Circle, Jackson, MS 39216",
+    "name": "LeFleur's Bluff State Park & Playground",
+    "category": "Park/Recreation",
+    "subcategory": "State Park",
+    "description": "Urban oasis offering 305 acres of outdoor recreation along the Pearl River and Mayes Lake. Features extensive hiking trails, fishing opportunities, large modern playground, disc golf course, and camping facilities. Located in the heart of Jackson's museum district, making it perfect for combining outdoor activities with cultural attractions.",
+    "highlights": [
+      "2.5 miles of nature trails through diverse ecosystems",
+      "Mayes Lake for fishing and non-motorized boating",
+      "Large playground with modern equipment for all ages",
+      "18-hole disc golf course",
+      "RV and tent camping with full amenities"
+    ],
+    "address": "2140 Riverside Drive, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3426,
+      "longitude": -90.1421
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.5 miles",
     "phone": "(601) 432-2239",
-    "website": "",
-    "image": ""
+    "website": "https://www.mdwfp.com/parks-destinations/state-parks/lefleurs-bluff",
+    "hours": {
+      "daily": "6:00 AM - 10:00 PM",
+      "notes": "Camping guests have 24-hour access"
+    },
+    "admission": {
+      "vehicle": "$4 per vehicle",
+      "camping": "$24-44 per night",
+      "annual_pass": "$60",
+      "notes": "Additional fees for pavilion rentals"
+    },
+    "parking": {
+      "available": true,
+      "type": "Multiple free lots throughout park",
+      "spaces": "200+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": true,
+      "notes": "Paved trails near visitor center, playground partially accessible"
+    },
+    "duration": "2-6 hours",
+    "best_for": ["Families", "Nature lovers", "Camping", "Fishing", "Picnics"],
+    "seasonal_notes": "Best hiking weather October-May; swimming not permitted in lake",
+    "nearby_attractions": ["mississippi-museum-of-natural-science", "mississippi-childrens-museum"],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available but may have wait times"
+    },
+    "social_media": {
+      "instagram": "@msstateparks",
+      "facebook": "MississippiStateParks"
+    },
+    "hashtags": ["#MSStateParks", "#LeFleursBluff", "#JacksonOutdoors"],
+    "reviews": {
+      "google": "4.3/5 (600+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false,
+      "nature_programs": "Scheduled programs available"
+    },
+    "special_events": {
+      "pavilion_rental": true,
+      "event_space": "Multiple pavilions",
+      "capacity": "20-100 depending on pavilion"
+    },
+    "images": [
+      {
+        "url": "https://example.com/lefleurs-lake.jpg",
+        "caption": "Mayes Lake with cypress trees",
+        "credit": "MS State Parks"
+      },
+      {
+        "url": "https://example.com/playground.jpg",
+        "caption": "Modern playground equipment",
+        "credit": "MS State Parks"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-museum-of-natural-science",
     "name": "Mississippi Museum of Natural Science",
     "category": "Museum",
-    "description": "",
+    "subcategory": "Natural History",
+    "description": "State's premier natural science museum featuring 73,000 square feet of permanent and traveling exhibits. Home to a 100,000-gallon aquarium network showcasing native aquatic species, interactive habitats representing Mississippi's ecosystems, and extensive collections of fossils, plants, and animals. The museum sits within a 300-acre natural area with nature trails.",
+    "highlights": [
+      "100,000-gallon aquarium with native Mississippi species",
+      "The Swamp habitat with live alligators",
+      "200-million-year-old fossil whale",
+      "2.5 miles of nature trails through diverse habitats",
+      "Interactive children's discovery room"
+    ],
     "address": "2148 Riverside Drive, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3445,
+      "longitude": -90.1418
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.6 miles",
     "phone": "(601) 576-6000",
-    "website": "",
-    "image": ""
+    "website": "https://www.mdwfp.com/museum",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "1:00 PM - 5:00 PM"
+    },
+    "admission": {
+      "adults": "$10",
+      "seniors": "$8",
+      "children_3_12": "$6",
+      "children_under_3": "Free",
+      "notes": "Includes access to trails"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "150"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "All exhibits accessible; trail boardwalks wheelchair-friendly"
+    },
+    "duration": "2-3 hours",
+    "best_for": ["Families", "School groups", "Nature enthusiasts", "All ages"],
+    "seasonal_notes": "Outdoor trails best in spring/fall; indoor exhibits climate-controlled",
+    "nearby_attractions": ["lefleurs-bluff-state-park", "mississippi-childrens-museum"],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "instagram": "@msnaturalscience",
+      "facebook": "MississippiMuseumofNaturalScience"
+    },
+    "hashtags": ["#MSNaturalScience", "#JacksonMuseums", "#MississippiWildlife"],
+    "reviews": {
+      "google": "4.5/5 (1000+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "education@mdwfp.ms.gov",
+      "min_size": 15,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Auditorium and outdoor pavilion",
+      "capacity": "200 indoor, 150 outdoor"
+    },
+    "images": [
+      {
+        "url": "https://example.com/aquarium-tunnel.jpg",
+        "caption": "Walk-through aquarium tunnel",
+        "credit": "MDWFP"
+      },
+      {
+        "url": "https://example.com/alligator-exhibit.jpg",
+        "caption": "Live alligator in Swamp exhibit",
+        "credit": "MDWFP"
+      }
+    ],
+    "virtual_tour": "https://www.mdwfp.com/museum/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-agriculture-forestry-museum",
     "name": "Mississippi Agriculture & Forestry Museum",
     "category": "Museum",
-    "description": "",
+    "subcategory": "Living History",
+    "description": "39-acre complex celebrating Mississippi's agricultural and forestry heritage through interactive exhibits and living history demonstrations. Features a recreated 1920s small town, heritage center, working farm with heritage breed animals, and the National Agricultural Aviation Museum. Regular demonstrations of traditional crafts and farming techniques.",
+    "highlights": [
+      "Recreated 1920s Mississippi small town with general store and church",
+      "Heritage farm with rare breed livestock",
+      "National Agricultural Aviation Museum",
+      "Antique farm equipment and forestry exhibits",
+      "Working blacksmith shop and grist mill"
+    ],
     "address": "1150 Lakeland Drive, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3432,
+      "longitude": -90.1456
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.3 miles",
     "phone": "(601) 432-4500",
-    "website": "",
-    "image": ""
+    "website": "https://www.msagmuseum.org",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "adults": "$8",
+      "seniors": "$7",
+      "children_3_18": "$5",
+      "children_under_3": "Free",
+      "notes": "Special event pricing may vary"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "200+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": true,
+      "notes": "Main exhibits accessible; some historic buildings have steps"
+    },
+    "duration": "2-4 hours",
+    "best_for": ["Families", "History enthusiasts", "School groups", "All ages"],
+    "seasonal_notes": "Outdoor areas best in mild weather; special events throughout year",
+    "nearby_attractions": ["mississippi-sports-hall-of-fame", "mississippi-childrens-museum"],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "instagram": "@msagmuseum",
+      "facebook": "MSAgMuseum"
+    },
+    "hashtags": ["#MSAgMuseum", "#LivingHistory", "#JacksonMS"],
+    "reviews": {
+      "google": "4.4/5 (500+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 432-4500",
+      "min_size": 15,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Multiple venues including town square",
+      "capacity": "Up to 500 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/small-town.jpg",
+        "caption": "1920s Mississippi small town recreation",
+        "credit": "MS Ag Museum"
+      },
+      {
+        "url": "https://example.com/heritage-farm.jpg",
+        "caption": "Heritage breed animals on the farm",
+        "credit": "MS Ag Museum"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-childrens-museum",
-    "name": "Mississippi Children’s Museum",
-    "category": "Family & Kids",
-    "description": "",
+    "name": "Mississippi Children's Museum",
+    "category": "Museum",
+    "subcategory": "Children's Interactive",
+    "description": "40,000 square feet of hands-on exhibits designed to inspire learning through play for children and families. Features six interactive galleries focusing on Mississippi heritage, health and nutrition, STEM concepts, literacy, and the arts. Includes outdoor literacy garden and space for traveling exhibitions.",
+    "highlights": [
+      "Exploring Mississippi gallery with mini cotton gin and fishing boat",
+      "Healthy Fun exhibit teaching nutrition through play",
+      "World at Work career exploration area",
+      "Literacy Garden with storybook settings",
+      "STEM lab with robotics and coding activities"
+    ],
     "address": "2145 Museum Drive, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3438,
+      "longitude": -90.1424
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.5 miles",
     "phone": "(601) 981-5469",
-    "website": "",
-    "image": ""
+    "website": "https://mschildrensmuseum.org",
+    "hours": {
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "1:00 PM - 5:00 PM",
+      "monday": "Closed"
+    },
+    "admission": {
+      "general": "$12",
+      "children_under_1": "Free",
+      "members": "Free",
+      "notes": "$2 discount for Mississippi residents"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "175"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Sensory-friendly hours first Sunday of each month"
+    },
+    "duration": "2-4 hours",
+    "best_for": ["Families with children 2-12", "School groups", "Birthday parties"],
+    "seasonal_notes": "Indoor climate-controlled; outdoor garden weather-dependent",
+    "nearby_attractions": ["mississippi-museum-of-natural-science", "lefleurs-bluff-state-park"],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "instagram": "@mschildrensmuseum",
+      "facebook": "MississippiChildrensMuseum"
+    },
+    "hashtags": ["#MCMJackson", "#PlayToLearn", "#KidsInJackson"],
+    "reviews": {
+      "google": "4.6/5 (1500+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "fieldtrips@mcm.ms",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "birthday_parties": true,
+      "private_rental": true,
+      "capacity": "Up to 300 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mcm-galleries.jpg",
+        "caption": "Children exploring interactive exhibits",
+        "credit": "MCM"
+      },
+      {
+        "url": "https://example.com/literacy-garden.jpg",
+        "caption": "Outdoor literacy garden",
+        "credit": "MCM"
+      }
+    ],
+    "virtual_tour": "https://mschildrensmuseum.org/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-civil-rights-museum",
     "name": "Mississippi Civil Rights Museum",
-    "category": "Museum – History",
-    "description": "",
+    "category": "Museum",
+    "subcategory": "History",
+    "description": "Powerful chronicle of Mississippi's Civil Rights Movement from 1945 to 1976, featuring eight interactive galleries with artifacts, films, and personal testimonies. Documents the systematic oppression of Black Mississippians and their organized resistance, highlighting key events like the Freedom Rides, Freedom Summer, and the murders of Medgar Evers, Emmett Till, and Freedom Summer workers.",
+    "highlights": [
+      "This Little Light of Mine holographic theater experience",
+      "Gallery on 1964 Freedom Summer campaign",
+      "Medgar Evers assassination exhibit",
+      "Interactive lunch counter sit-in experience",
+      "Mississippi Freedom Struggle timeline"
+    ],
     "address": "222 North Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3035,
+      "longitude": -90.1865
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.5 miles",
     "phone": "(601) 576-6800",
-    "website": "",
-    "image": ""
+    "website": "https://mcrm.mdah.ms.gov",
+    "hours": {
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "11:00 AM - 5:00 PM",
+      "monday": "Closed"
+    },
+    "admission": {
+      "adults": "$12",
+      "seniors": "$10",
+      "students": "$8",
+      "children_4_18": "$6",
+      "children_under_4": "Free",
+      "combo_ticket": "$18 (includes Museum of Mississippi History)"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "250"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Audio guides and ASL interpretation available upon request"
+    },
+    "duration": "2-3 hours",
+    "best_for": ["History education", "Students", "Civil rights interest", "Ages 12+"],
+    "seasonal_notes": "Busiest during Black History Month and summer vacation",
+    "nearby_attractions": ["museum-of-mississippi-history", "old-capitol-museum"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easily accessible"
+    },
+    "social_media": {
+      "instagram": "@mscivilrightsmuseum",
+      "facebook": "MississippiCivilRightsMuseum"
+    },
+    "hashtags": ["#MCRM", "#CivilRights", "#MississippiHistory"],
+    "reviews": {
+      "google": "4.8/5 (2000+ reviews)",
+      "tripadvisor": "5.0/5",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "tours@mdah.ms.gov",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": false,
+      "educational_programs": "Regular lectures and workshops"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mcrm-exterior.jpg",
+        "caption": "Museum exterior and entrance",
+        "credit": "MDAH"
+      },
+      {
+        "url": "https://example.com/freedom-gallery.jpg",
+        "caption": "Freedom Summer gallery",
+        "credit": "MDAH"
+      }
+    ],
+    "virtual_tour": "https://mcrm.mdah.ms.gov/virtual-tour",
+    "combo_tickets": ["museum-of-mississippi-history"],
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-museum-of-art",
     "name": "Mississippi Museum of Art",
-    "category": "Art Museum",
-    "description": "",
+    "category": "Museum",
+    "subcategory": "Art",
+    "description": "Mississippi's premier art institution featuring over 5,500 works spanning from pre-Columbian to contemporary art. Strong collection of Mississippi and Southern artists, American art, and rotating international exhibitions. The 1.2-acre Art Garden provides outdoor sculpture installations and community programming space.",
+    "highlights": [
+      "The Mississippi Story galleries featuring state artists",
+      "1.2-acre Art Garden with sculptures and performance space",
+      "Growing collection of contemporary Southern art",
+      "Regular rotating exhibitions from major museums",
+      "Interactive art-making studios for all ages"
+    ],
     "address": "380 South Lamar Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3024,
+      "longitude": -90.1885
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.4 miles",
     "phone": "(601) 960-1515",
-    "website": "",
-    "image": ""
+    "website": "https://www.msmuseumart.org",
+    "hours": {
+      "tuesday": "10:00 AM - 5:00 PM",
+      "wednesday": "10:00 AM - 5:00 PM",
+      "thursday": "10:00 AM - 8:00 PM",
+      "friday": "10:00 AM - 5:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "12:00 PM - 5:00 PM",
+      "monday": "Closed"
+    },
+    "admission": {
+      "adults": "$15",
+      "seniors": "$13",
+      "students": "$10",
+      "children_6_17": "$5",
+      "children_under_6": "Free",
+      "thursday_evenings": "Free 5:00-8:00 PM"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking garage adjacent",
+      "spaces": "300+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Wheelchairs available at front desk"
+    },
+    "duration": "1.5-3 hours",
+    "best_for": ["Art enthusiasts", "Date nights", "Families", "Students"],
+    "seasonal_notes": "Art Garden best enjoyed in mild weather; Thursday evening free hours popular",
+    "nearby_attractions": ["thalia-mara-hall", "smith-park"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easily accessible"
+    },
+    "social_media": {
+      "instagram": "@msmuseumart",
+      "facebook": "MississippiMuseumofArt",
+      "twitter": "@MSMuseumArt"
+    },
+    "hashtags": ["#MSMuseumArt", "#ArtGardenJXN", "#ThursdayNightsFree"],
+    "reviews": {
+      "google": "4.4/5 (700+ reviews)",
+      "tripadvisor": "4.0/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "tours@msmuseumart.org",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Multiple galleries and Art Garden",
+      "capacity": "Up to 500 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mma-galleries.jpg",
+        "caption": "Main gallery with Mississippi artists",
+        "credit": "MMA"
+      },
+      {
+        "url": "https://example.com/art-garden.jpg",
+        "caption": "Art Garden outdoor sculpture space",
+        "credit": "MMA"
+      }
+    ],
+    "virtual_tour": "https://www.msmuseumart.org/virtual-exhibitions",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "mississippi-sports-hall-of-fame",
     "name": "Mississippi Sports Hall of Fame & Museum",
-    "category": " Museum",
-    "description": "",
+    "category": "Museum",
+    "subcategory": "Sports History",
+    "description": "Celebrating Mississippi's rich athletic heritage with exhibits honoring over 300 inductees including Walter Payton, Jerry Rice, Brett Favre, and Archie Manning. Features interactive displays, authentic memorabilia, and multimedia presentations spanning professional, collegiate, and Olympic achievements by Mississippi athletes.",
+    "highlights": [
+      "Walter Payton exhibit with game-worn jerseys",
+      "Interactive football throwing and baseball pitching simulators",
+      "Olympic athletes section with medals and memorabilia",
+      "College sports dynasties displays",
+      "Locker room recreation with inductee lockers"
+    ],
     "address": "1152 Lakeland Drive, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3428,
+      "longitude": -90.1458
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.3 miles",
     "phone": "(601) 982-8264",
-    "website": "",
-    "image": ""
+    "website": "https://www.msfame.com",
+    "hours": {
+      "monday": "10:00 AM - 4:00 PM",
+      "tuesday": "10:00 AM - 4:00 PM",
+      "wednesday": "10:00 AM - 4:00 PM",
+      "thursday": "10:00 AM - 4:00 PM",
+      "friday": "10:00 AM - 4:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "adults": "$8",
+      "seniors": "$7",
+      "students": "$5",
+      "children_5_17": "$5",
+      "children_under_5": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "100"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "All exhibits on single floor"
+    },
+    "duration": "1-2 hours",
+    "best_for": ["Sports fans", "Families", "Mississippi sports history", "All ages"],
+    "seasonal_notes": "Special events during major sports seasons",
+    "nearby_attractions": ["mississippi-agriculture-forestry-museum", "mississippi-childrens-museum"],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "instagram": "@mssportshof",
+      "facebook": "MSSportsHOF"
+    },
+    "hashtags": ["#MSSportsHOF", "#MississippiSports", "#HallOfFame"],
+    "reviews": {
+      "google": "4.5/5 (300+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 982-8264",
+      "min_size": 10,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Hall of Fame room",
+      "capacity": "Up to 200 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/hall-of-fame.jpg",
+        "caption": "Hall of Fame inductee wall",
+        "credit": "MSHOF"
+      },
+      {
+        "url": "https://example.com/payton-exhibit.jpg",
+        "caption": "Walter Payton memorabilia display",
+        "credit": "MSHOF"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "museum-of-mississippi-history",
     "name": "Museum of Mississippi History",
     "category": "Museum",
-    "description": "",
+    "subcategory": "State History",
+    "description": "Comprehensive journey through Mississippi's 15,000-year history from Native American cultures to present day. Features artifacts, interactive displays, and multimedia presentations covering prehistoric Mississippi, European colonization, statehood, Civil War, Reconstruction, and modern developments.",
+    "highlights": [
+      "Native American artifacts including Choctaw and Chickasaw items",
+      "Civil War battle flags and military equipment",
+      "Hurricane Katrina impact and recovery exhibit",
+      "Mississippi music heritage with blues and gospel sections",
+      "20th century civil rights and economic development"
+    ],
     "address": "222 North Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3035,
+      "longitude": -90.1865
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.5 miles",
     "phone": "(601) 576-6800",
-    "website": "",
-    "image": ""
+    "website": "https://mmh.mdah.ms.gov",
+    "hours": {
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "11:00 AM - 5:00 PM",
+      "monday": "Closed"
+    },
+    "admission": {
+      "adults": "$10",
+      "seniors": "$8",
+      "students": "$6",
+      "children_4_18": "$5",
+      "children_under_4": "Free",
+      "combo_ticket": "$18 (includes Mississippi Civil Rights Museum)"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "250"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "All galleries accessible; assistive listening devices available"
+    },
+    "duration": "1.5-2.5 hours",
+    "best_for": ["History buffs", "Students", "First-time visitors", "All ages"],
+    "seasonal_notes": "Can be combined with Civil Rights Museum for full day experience",
+    "nearby_attractions": ["mississippi-civil-rights-museum", "old-capitol-museum"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easily accessible"
+    },
+    "social_media": {
+      "instagram": "@mshistorymuseum",
+      "facebook": "MuseumofMississippiHistory"
+    },
+    "hashtags": ["#MSHistory", "#MDAH", "#MississippiStory"],
+    "reviews": {
+      "google": "4.6/5 (800+ reviews)",
+      "tripadvisor": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "tours@mdah.ms.gov",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": false,
+      "educational_programs": "Regular workshops and lectures"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mmh-galleries.jpg",
+        "caption": "Main exhibition galleries",
+        "credit": "MDAH"
+      },
+      {
+        "url": "https://example.com/native-american.jpg",
+        "caption": "Native American artifacts display",
+        "credit": "MDAH"
+      }
+    ],
+    "virtual_tour": "https://mmh.mdah.ms.gov/virtual-tour",
+    "combo_tickets": ["mississippi-civil-rights-museum"],
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "museum-trail",
     "name": "Museum Trail",
-    "category": "Outdoor Trail",
-    "description": "",
+    "category": "Park/Recreation",
+    "subcategory": "Urban Trail",
+    "description": "2.5-mile paved multi-use trail connecting Jackson's museum district attractions, parks, and neighborhoods. Popular for walking, jogging, and cycling, the trail features interpretive signage about local ecology and history, rest areas with benches, and connections to major cultural institutions.",
+    "highlights": [
+      "Connects 5 major museums and attractions",
+      "Scenic route through urban forest areas",
+      "Exercise stations and mile markers",
+      "Wildlife viewing opportunities",
+      "Safe, well-lit pathway for recreation"
+    ],
     "address": "707 Monroe Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3421,
+      "longitude": -90.1435
+    },
+    "neighborhood": "Museum District",
+    "distance_from_downtown": "3.0 miles",
     "phone": "(601) 960-0471",
     "website": "",
-    "image": ""
+    "hours": {
+      "daily": "Dawn to dusk"
+    },
+    "admission": {
+      "general": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Multiple access points with parking",
+      "spaces": "Various locations"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully paved and graded for accessibility"
+    },
+    "duration": "30 minutes - 2 hours",
+    "best_for": ["Walkers", "Runners", "Cyclists", "Families", "Dog walking"],
+    "seasonal_notes": "Best in early morning or evening during summer; beautiful fall foliage",
+    "nearby_attractions": ["mississippi-museum-of-natural-science", "mississippi-childrens-museum", "lefleurs-bluff-state-park"],
+    "transportation": {
+      "public_transit": "Multiple access points near bus stops",
+      "rideshare": "Pick-up/drop-off at museum locations"
+    },
+    "social_media": {
+      "instagram": "#JacksonMuseumTrail",
+      "facebook": "City of Jackson Parks"
+    },
+    "hashtags": ["#MuseumTrail", "#JacksonTrails", "#GetOutsideJackson"],
+    "reviews": {
+      "google": "4.2/5 (200+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "races": "Annual 5K and fun runs",
+      "group_activities": "Walking clubs meet regularly"
+    },
+    "images": [
+      {
+        "url": "https://example.com/trail-path.jpg",
+        "caption": "Paved trail through wooded area",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "smith-robertson-museum-cultural-center",
     "name": "Smith Robertson Museum & Cultural Center",
-    "category": "Attraction / Museum – African American History",
-    "description": "",
+    "category": "Museum",
+    "subcategory": "African American History",
+    "description": "Located in Jackson's first public school for African American children (1894-1971), this museum preserves and interprets African American history and culture in Mississippi. Features exhibits on education, music, civil rights, and notable alumni including author Richard Wright who attended the school.",
+    "highlights": [
+      "Historic classroom recreation from segregation era",
+      "Richard Wright exhibit and literary collection",
+      "Mississippi blues and gospel music history",
+      "Farish Street Historic District documentation",
+      "African American folk art collection"
+    ],
     "address": "528 Bloom Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.2998,
+      "longitude": -90.1945
+    },
+    "neighborhood": "Farish Street Historic District",
+    "distance_from_downtown": "0.8 miles",
     "phone": "(601) 960-1457",
-    "website": "",
-    "image": ""
+    "website": "https://www.jacksonms.gov/smith-robertson-museum",
+    "hours": {
+      "monday": "10:00 AM - 5:00 PM",
+      "tuesday": "10:00 AM - 5:00 PM",
+      "wednesday": "10:00 AM - 5:00 PM",
+      "thursday": "10:00 AM - 5:00 PM",
+      "friday": "10:00 AM - 5:00 PM",
+      "saturday": "10:00 AM - 1:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "adults": "$6",
+      "seniors": "$5",
+      "students": "$4",
+      "children_4_17": "$3",
+      "children_under_4": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Street parking",
+      "spaces": "Limited"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "First floor accessible; second floor by stairs only"
+    },
+    "duration": "1-1.5 hours",
+    "best_for": ["History enthusiasts", "Students", "Cultural education"],
+    "seasonal_notes": "Black History Month special programming in February",
+    "nearby_attractions": ["alamo-theatre", "mississippi-civil-rights-museum"],
+    "transportation": {
+      "public_transit": "JATRAN routes nearby",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "SmithRobertsonMuseum"
+    },
+    "hashtags": ["#SmithRobertson", "#FarishStreet", "#JacksonHistory"],
+    "reviews": {
+      "google": "4.3/5 (100+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1457",
+      "min_size": 10,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": false,
+      "educational_programs": "School programs available"
+    },
+    "images": [
+      {
+        "url": "https://example.com/smith-robertson.jpg",
+        "caption": "Historic school building exterior",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "alamo-theatre",
     "name": "Alamo Theatre",
-    "category": "Historic Landmark Theatre",
-    "description": "",
+    "category": "Performance Venue",
+    "subcategory": "Historic Theatre",
+    "description": "Historic African American theater built in 1949, once the centerpiece of Farish Street's entertainment district. Recently restored venue hosts live music, theatrical performances, and cultural events. Important landmark in Jackson's blues and civil rights history, where B.B. King, Louis Armstrong, and Nat King Cole performed.",
+    "highlights": [
+      "Art Deco architecture and restored neon sign",
+      "700-seat capacity historic auditorium",
+      "Original stage where blues legends performed",
+      "Civil rights meeting location history",
+      "Modern sound and lighting systems"
+    ],
     "address": "333 North Farish Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3012,
+      "longitude": -90.1952
+    },
+    "neighborhood": "Farish Street Historic District",
+    "distance_from_downtown": "0.9 miles",
     "phone": "(601) 352-3365",
     "website": "",
-    "image": ""
+    "hours": {
+      "event_based": "Varies by performance schedule"
+    },
+    "admission": {
+      "varies": "Ticket prices vary by event"
+    },
+    "parking": {
+      "available": true,
+      "type": "Street parking and nearby lots",
+      "spaces": "Limited"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Renovations included accessibility updates"
+    },
+    "duration": "2-3 hours per event",
+    "best_for": ["Music lovers", "Theatre enthusiasts", "History buffs", "Date nights"],
+    "seasonal_notes": "Check event calendar; not open daily",
+    "nearby_attractions": ["smith-robertson-museum-cultural-center", "mississippi-civil-rights-museum"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Recommended for evening events"
+    },
+    "social_media": {
+      "facebook": "AlamoTheatreJackson"
+    },
+    "hashtags": ["#AlamoTheatre", "#FarishStreet", "#JacksonMusic"],
+    "reviews": {
+      "google": "4.2/5 (150+ reviews)"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false,
+      "historic_tours": "By special arrangement"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Full theatre",
+      "capacity": "700 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/alamo-facade.jpg",
+        "caption": "Restored Art Deco facade with neon sign",
+        "credit": "Farish Street Group"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open for events"
   },
   {
     "id": "thalia-mara-hall",
     "name": "Thalia Mara Hall",
     "category": "Performance Venue",
-    "description": "City auditorium and home of the USA International Ballet Competition.",
-    "address": "225 E. Pascagoula Street, Mississippi Arts Complex, Jackson, MS 39201",
+    "subcategory": "Concert Hall",
+    "description": "Jackson's premier performing arts venue with 2,042-seat capacity, hosting Broadway shows, symphony concerts, ballet, and major touring acts. Home to the prestigious USA International Ballet Competition every four years. Features state-of-the-art acoustics and recently renovated facilities.",
+    "highlights": [
+      "Host venue for USA International Ballet Competition",
+      "Broadway touring productions",
+      "Mississippi Symphony Orchestra performances",
+      "2,042-seat auditorium with excellent acoustics",
+      "Full production capabilities for major shows"
+    ],
+    "address": "225 E. Pascagoula Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3008,
+      "longitude": -90.1842
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.2 miles",
     "phone": "(601) 960-1537",
-    "website": "",
-    "image": ""
+    "website": "https://www.thaliamarahall.net",
+    "hours": {
+      "box_office": "Monday-Friday 10:00 AM - 5:00 PM",
+      "performance_days": "Extended hours on show days"
+    },
+    "admission": {
+      "varies": "$25-$150 depending on performance"
+    },
+    "parking": {
+      "available": true,
+      "type": "Adjacent parking garage",
+      "spaces": "500+",
+      "cost": "$5-10 event parking"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Assistive listening devices, accessible seating available"
+    },
+    "duration": "2-3 hours typical performance",
+    "best_for": ["Theatre lovers", "Music enthusiasts", "Special occasions", "Date nights"],
+    "seasonal_notes": "September-May primary season; check schedule for summer events",
+    "nearby_attractions": ["mississippi-museum-of-art", "old-capitol-museum"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub nearby",
+      "rideshare": "Drop-off zone available"
+    },
+    "social_media": {
+      "instagram": "@thaliamarahall",
+      "facebook": "ThaliaMaraHall"
+    },
+    "hashtags": ["#ThaliaMaraHall", "#JacksonArts", "#BroadwayInJackson"],
+    "reviews": {
+      "google": "4.5/5 (500+ reviews)",
+      "tripadvisor": "4.5/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": true,
+      "contact": "groups@thaliamarahall.net",
+      "min_size": 20,
+      "discounts": "Available for 20+"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Full venue or lobbies",
+      "capacity": "2,042 theatre, 300 lobby"
+    },
+    "images": [
+      {
+        "url": "https://example.com/thalia-interior.jpg",
+        "caption": "Main auditorium interior",
+        "credit": "Thalia Mara Hall"
+      }
+    ],
+    "virtual_tour": "https://www.thaliamarahall.net/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "new-stage-theatre",
     "name": "New Stage Theatre",
-    "category": "Theatre",
-    "description": "Regional professional theatre located in Belhaven.",
-    "address": "1100 Carlisle Street, Jackson, MS",
+    "category": "Performance Venue",
+    "subcategory": "Regional Theatre",
+    "description": "Mississippi's only professional theatre company, producing contemporary and classic works since 1965. Intimate 364-seat venue presents mainstage productions, new works, and educational programs. Known for high-quality local productions and fostering regional talent.",
+    "highlights": [
+      "Professional Equity theatre company",
+      "6-show mainstage season",
+      "Unframed Series for experimental works",
+      "Education programs and summer camps",
+      "Intimate 364-seat thrust stage configuration"
+    ],
+    "address": "1100 Carlisle Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3156,
+      "longitude": -90.1798
+    },
+    "neighborhood": "Belhaven",
+    "distance_from_downtown": "1.5 miles",
     "phone": "(601) 948-3531",
-    "website": "",
-    "image": ""
+    "website": "https://newstagetheatre.com",
+    "hours": {
+      "box_office": "Tuesday-Friday 12:00 PM - 5:00 PM",
+      "performance_days": "Extended hours on show days"
+    },
+    "admission": {
+      "single_tickets": "$30-$40",
+      "season_packages": "$150-$225",
+      "student_rush": "$15 (day of show)"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "100+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Accessible seating, hearing assistance available"
+    },
+    "duration": "2-2.5 hours typical performance",
+    "best_for": ["Theatre enthusiasts", "Date nights", "Cultural experiences"],
+    "seasonal_notes": "September-May main season; limited summer productions",
+    "nearby_attractions": ["eudora-welty-house-garden", "mississippi-museum-of-art"],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "instagram": "@newstagetheatre",
+      "facebook": "NewStageTheatre"
+    },
+    "hashtags": ["#NewStageTheatre", "#JacksonTheatre", "#MSArts"],
+    "reviews": {
+      "google": "4.6/5 (300+ reviews)",
+      "facebook": "4.7/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false,
+      "group_sales": true,
+      "contact": "boxoffice@newstagetheatre.com"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Theatre and lobby",
+      "capacity": "364 theatre, 100 lobby"
+    },
+    "images": [
+      {
+        "url": "https://example.com/newstage-performance.jpg",
+        "caption": "Mainstage production in progress",
+        "credit": "New Stage Theatre"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "old-capitol-museum",
     "name": "Old Capitol Museum",
-    "category": "Historic Museum",
-    "description": "Original Mississippi State Capitol building, now a museum.",
-    "address": "100 South State Street, Jackson, MS",
+    "category": "Historic Site",
+    "subcategory": "Government Building",
+    "description": "Restored Greek Revival building served as Mississippi's statehouse from 1839-1903, witnessing pivotal moments including secession from the Union. Now a museum featuring period legislative chambers, governor's office, and exhibits on Mississippi political history. National Historic Landmark showcasing antebellum architecture.",
+    "highlights": [
+      "Restored 1840s House and Senate chambers",
+      "Site of Mississippi's secession vote in 1861",
+      "Greek Revival architecture with copper dome",
+      "Period governor's office and Supreme Court",
+      "Interactive exhibits on state political history"
+    ],
+    "address": "100 South State Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3034,
+      "longitude": -90.1847
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0 miles (city center)",
     "phone": "(601) 576-6920",
-    "website": "",
-    "image": ""
+    "website": "https://www.mdah.ms.gov/old-capitol",
+    "hours": {
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "Closed",
+      "monday": "Closed"
+    },
+    "admission": {
+      "general": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Metered street parking",
+      "spaces": "Limited"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Elevator access to all floors"
+    },
+    "duration": "45 minutes - 1 hour",
+    "best_for": ["History buffs", "Architecture enthusiasts", "Students", "Tourists"],
+    "seasonal_notes": "Popular during legislative session for comparison with current capitol",
+    "nearby_attractions": ["mississippi-civil-rights-museum", "war-memorial-building"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Easy pickup downtown"
+    },
+    "social_media": {
+      "facebook": "OldCapitolMuseum"
+    },
+    "hashtags": ["#OldCapitol", "#MSHistory", "#JacksonLandmarks"],
+    "reviews": {
+      "google": "4.5/5 (400+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 576-6920",
+      "min_size": 10,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Rotunda and grounds",
+      "capacity": "Up to 200 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/old-capitol-dome.jpg",
+        "caption": "Greek Revival facade with copper dome",
+        "credit": "MDAH"
+      }
+    ],
+    "virtual_tour": "https://www.mdah.ms.gov/old-capitol/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "pete-brown-golf-facility",
     "name": "Pete Brown Golf Facility",
-    "category": "Recreation – Golf",
-    "description": "City-owned 18-hole championship golf course with driving range.",
+    "category": "Park/Recreation",
+    "subcategory": "Golf Course",
+    "description": "Championship 18-hole municipal golf course named after Jackson native Pete Brown, the first African American to win a PGA Tour event. Features challenging layout, practice facilities, and clubhouse. Affordable public golf option serving diverse community of players.",
+    "highlights": [
+      "18-hole championship layout, par 72",
+      "Driving range and practice greens",
+      "Pro shop with equipment and apparel",
+      "Golf lessons from PGA professionals",
+      "Historic significance in breaking golf's color barrier"
+    ],
     "address": "3200 Woodrow Wilson Avenue, Jackson, MS 39209",
+    "coordinates": {
+      "latitude": 32.2654,
+      "longitude": -90.2145
+    },
+    "neighborhood": "South Jackson",
+    "distance_from_downtown": "5.2 miles",
     "phone": "(601) 960-1905",
-    "website": "",
-    "image": ""
+    "website": "https://www.jacksonms.gov/PeteBrownGolf",
+    "hours": {
+      "daily": "7:00 AM - Dusk",
+      "pro_shop": "7:00 AM - 7:00 PM"
+    },
+    "admission": {
+      "weekday_18": "$25",
+      "weekend_18": "$30",
+      "cart_rental": "$15",
+      "twilight_rates": "Available after 2:00 PM",
+      "annual_membership": "$500-$800"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "100+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "Clubhouse accessible; course terrain varies"
+    },
+    "duration": "4-5 hours for 18 holes",
+    "best_for": ["Golfers of all levels", "Groups", "Golf lessons", "Tournaments"],
+    "seasonal_notes": "Year-round play; best conditions March-May and September-November",
+    "nearby_attractions": [],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "PeteBrownGolf"
+    },
+    "hashtags": ["#PeteBrownGolf", "#JacksonGolf", "#MunicipalGolf"],
+    "reviews": {
+      "google": "4.0/5 (200+ reviews)"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false,
+      "tournaments": true,
+      "contact": "(601) 960-1905"
+    },
+    "special_events": {
+      "tournament_hosting": true,
+      "event_space": "Clubhouse",
+      "capacity": "Up to 144 golfers"
+    },
+    "images": [
+      {
+        "url": "https://example.com/pete-brown-course.jpg",
+        "caption": "Championship golf course fairway",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "smith-park",
     "name": "Smith Park",
-    "category": "Outdoor Park",
-    "description": "Downtown green space with an amphitheater.",
-    "address": "302 Amite Street, Jackson, MS",
+    "category": "Park/Recreation",
+    "subcategory": "Urban Park",
+    "description": "Downtown Jackson's premier green space featuring open lawns, mature shade trees, and covered amphitheater. Popular venue for festivals, concerts, food truck gatherings, and community events. Offers respite in the urban core with walking paths and picnic areas.",
+    "highlights": [
+      "Covered amphitheater for performances",
+      "Large open green space for events",
+      "Walking paths and benches",
+      "Regular food truck gatherings",
+      "Downtown location near businesses and museums"
+    ],
+    "address": "302 Amite Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3018,
+      "longitude": -90.1876
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.2 miles",
     "phone": "(601) 960-0471",
     "website": "",
-    "image": ""
+    "hours": {
+      "daily": "6:00 AM - 10:00 PM"
+    },
+    "admission": {
+      "general": "Free",
+      "special_events": "Some events have admission fees"
+    },
+    "parking": {
+      "available": true,
+      "type": "Street parking and nearby garages",
+      "spaces": "Varies"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Paved paths throughout park"
+    },
+    "duration": "30 minutes - 2 hours",
+    "best_for": ["Lunch breaks", "Events", "Picnics", "Dog walking", "Relaxation"],
+    "seasonal_notes": "Spring and fall have most events; summer can be hot midday",
+    "nearby_attractions": ["mississippi-museum-of-art", "thalia-mara-hall"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {
+      "instagram": "#SmithParkJXN"
+    },
+    "hashtags": ["#SmithPark", "#DowntownJackson", "#JacksonParks"],
+    "reviews": {
+      "google": "4.1/5 (150+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "venue_rental": true,
+      "event_space": "Amphitheater and lawn",
+      "capacity": "Up to 1000 for events"
+    },
+    "images": [
+      {
+        "url": "https://example.com/smith-park.jpg",
+        "caption": "Park amphitheater and green space",
+        "credit": "Visit Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "tougaloo-college",
     "name": "Tougaloo College",
-    "category": "Historic Campus",
-    "description": "Historic HBCU campus with art galleries and architecture.",
+    "category": "Educational Institution",
+    "subcategory": "Historic Campus",
+    "description": "Historic HBCU founded in 1869, significant in Civil Rights Movement as meeting place for activists and Freedom Riders. Beautiful 500-acre campus features distinctive architecture, Tougaloo Art Collections with works by African American artists, and the historic Woodworth Chapel. Open for tours showcasing academic and civil rights legacy.",
+    "highlights": [
+      "Historic Woodworth Chapel (1901)",
+      "Tougaloo Art Collections in Owens Gallery",
+      "Civil Rights Movement historical sites",
+      "Beautiful tree-lined campus",
+      "Archives documenting Mississippi civil rights history"
+    ],
     "address": "500 W County Line Road, Tougaloo, MS 39174",
+    "coordinates": {
+      "latitude": 32.4245,
+      "longitude": -90.2564
+    },
+    "neighborhood": "Tougaloo",
+    "distance_from_downtown": "9 miles north",
     "phone": "(601) 977-7700",
-    "website": "",
-    "image": ""
+    "website": "https://www.tougaloo.edu",
+    "hours": {
+      "campus": "Open daily",
+      "gallery": "Monday-Friday 8:30 AM - 5:00 PM",
+      "tours": "By appointment"
+    },
+    "admission": {
+      "campus_grounds": "Free",
+      "gallery": "Free",
+      "guided_tours": "Free with advance booking"
+    },
+    "parking": {
+      "available": true,
+      "type": "Visitor parking on campus",
+      "spaces": "Ample"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Varies by building",
+      "notes": "Main buildings accessible; some historic structures limited"
+    },
+    "duration": "1-2 hours",
+    "best_for": ["History enthusiasts", "Art lovers", "Students", "Civil rights interest"],
+    "seasonal_notes": "Academic year best for full campus experience; summer quieter",
+    "nearby_attractions": [],
+    "transportation": {
+      "public_transit": "Not available",
+      "rideshare": "Available with longer wait"
+    },
+    "social_media": {
+      "instagram": "@tougaloocollege",
+      "facebook": "TougalooCollege"
+    },
+    "hashtags": ["#TougalooCollege", "#HBCU", "#CivilRightsHistory"],
+    "reviews": {
+      "google": "4.3/5 (100+ reviews)"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": true,
+      "contact": "admissions@tougaloo.edu",
+      "min_size": 5,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "venue_rental": "Limited",
+      "event_space": "Chapel and conference facilities"
+    },
+    "images": [
+      {
+        "url": "https://example.com/woodworth-chapel.jpg",
+        "caption": "Historic Woodworth Chapel",
+        "credit": "Tougaloo College"
+      }
+    ],
+    "virtual_tour": "https://www.tougaloo.edu/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "war-memorial-building",
     "name": "War Memorial Building",
-    "category": "Historic Monument",
-    "description": "Dedicated to Mississippi casualties of war.",
+    "category": "Historic Site",
+    "subcategory": "Monument",
+    "description": "Imposing limestone building constructed in 1940 to honor Mississippi's World War I veterans. Classical architecture features Corinthian columns and memorial plaques. Houses Mississippi National Guard headquarters and includes memorial spaces honoring veterans from all conflicts.",
+    "highlights": [
+      "Classical limestone architecture",
+      "Memorial plaques for Mississippi veterans",
+      "Corinthian columns and formal entrance",
+      "Historic military displays",
+      "Downtown landmark since 1940"
+    ],
     "address": "120 South State Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3027,
+      "longitude": -90.1848
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.1 miles",
     "phone": "(601) 354-7207",
     "website": "",
-    "image": ""
+    "hours": {
+      "exterior": "Always visible",
+      "interior": "Monday-Friday 8:00 AM - 5:00 PM"
+    },
+    "admission": {
+      "general": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Metered street parking",
+      "spaces": "Limited"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "Exterior viewing accessible; interior has stairs"
+    },
+    "duration": "15-30 minutes",
+    "best_for": ["Veterans", "History buffs", "Architecture enthusiasts"],
+    "seasonal_notes": "Memorial Day and Veterans Day ceremonies held here",
+    "nearby_attractions": ["old-capitol-museum", "mississippi-civil-rights-museum"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {},
+    "hashtags": ["#WarMemorial", "#JacksonHistory"],
+    "reviews": {
+      "google": "4.2/5 (50+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "ceremonies": "Memorial Day, Veterans Day"
+    },
+    "images": [
+      {
+        "url": "https://example.com/war-memorial.jpg",
+        "caption": "Classical limestone facade",
+        "credit": "Visit Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   },
   {
     "id": "william-f-winter-archives-history-building",
     "name": "William F. Winter Archives and History Building",
-    "category": "Archive & History Center",
-    "description": "State archives and history facility.",
+    "category": "Archive/Research",
+    "subcategory": "State Archives",
+    "description": "Modern facility housing Mississippi Department of Archives and History collections, including state records, manuscripts, photographs, and genealogical resources. Features rotating exhibitions on Mississippi history and culture, plus research rooms for scholars and genealogists.",
+    "highlights": [
+      "Extensive genealogical research resources",
+      "Rotating Mississippi history exhibitions",
+      "Climate-controlled document preservation",
+      "Public research rooms",
+      "Digital archives access"
+    ],
     "address": "200 North Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3032,
+      "longitude": -90.1863
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.4 miles",
     "phone": "(601) 576-6850",
-    "website": "",
-    "image": ""
+    "website": "https://www.mdah.ms.gov/winter-building",
+    "hours": {
+      "monday": "8:00 AM - 5:00 PM",
+      "tuesday": "8:00 AM - 5:00 PM",
+      "wednesday": "8:00 AM - 5:00 PM",
+      "thursday": "8:00 AM - 5:00 PM",
+      "friday": "8:00 AM - 5:00 PM",
+      "saturday": "8:00 AM - 1:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "general": "Free",
+      "research": "Free with registration"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free visitor parking",
+      "spaces": "50"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully accessible modern facility"
+    },
+    "duration": "1-6 hours depending on research needs",
+    "best_for": ["Genealogists", "Researchers", "History students", "Scholars"],
+    "seasonal_notes": "Year-round climate-controlled environment",
+    "nearby_attractions": ["mississippi-civil-rights-museum", "museum-of-mississippi-history"],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "MississippiArchives"
+    },
+    "hashtags": ["#MSArchives", "#Genealogy", "#MississippiHistory"],
+    "reviews": {
+      "google": "4.6/5 (100+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 576-6850",
+      "educational_programs": true
+    },
+    "special_events": {
+      "workshops": "Regular genealogy and research workshops",
+      "exhibitions": "Rotating quarterly"
+    },
+    "images": [
+      {
+        "url": "https://example.com/winter-building.jpg",
+        "caption": "Modern archives facility",
+        "credit": "MDAH"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
   }
 ]

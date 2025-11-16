@@ -1,19 +1,39 @@
 <template>
   <div class="attraction-grid-container">
     <!-- Filter Section -->
-    <div class="mb-8 flex flex-wrap gap-3 items-center">
-      <span class="text-sm font-medium text-gray-700">Filter by:</span>
-      <k-button
-        v-for="category in categories"
-        :key="category"
-        :theme-color="selectedCategory === category ? 'primary' : 'base'"
-        :fill-mode="selectedCategory === category ? 'solid' : 'outline'"
-        :size="'small'"
-        class="!rounded-full transition-all"
-        @click="selectCategory(category)"
-      >
-        {{ category }}
-      </k-button>
+    <div class="mb-8 space-y-4">
+      <!-- Category Filter -->
+      <div class="flex flex-wrap gap-3 items-center">
+        <span class="text-sm font-medium text-gray-700">Category:</span>
+        <k-button
+          v-for="category in categories"
+          :key="category"
+          :theme-color="selectedCategory === category ? 'primary' : 'base'"
+          :fill-mode="selectedCategory === category ? 'solid' : 'outline'"
+          :size="'small'"
+          class="!rounded-full transition-all"
+          @click="selectCategory(category)"
+        >
+          {{ category }}
+        </k-button>
+      </div>
+
+      <!-- Subcategory Filter (shown when category is selected) -->
+      <div v-if="selectedCategory !== 'All' && subcategories.length > 1"
+           class="flex flex-wrap gap-3 items-center">
+        <span class="text-sm font-medium text-gray-700">Type:</span>
+        <k-button
+          v-for="subcategory in subcategories"
+          :key="subcategory"
+          :theme-color="selectedSubcategory === subcategory ? 'primary' : 'base'"
+          :fill-mode="selectedSubcategory === subcategory ? 'solid' : 'outline'"
+          :size="'small'"
+          class="!rounded-full transition-all"
+          @click="selectSubcategory(subcategory)"
+        >
+          {{ subcategory }}
+        </k-button>
+      </div>
     </div>
 
     <!-- Grid -->
@@ -77,6 +97,7 @@ const props = defineProps({
 const emit = defineEmits(['view-details', 'toggle-favorite'])
 
 const selectedCategory = ref('All')
+const selectedSubcategory = ref('All')
 
 // Extract unique categories from attractions
 const categories = computed(() => {
@@ -84,16 +105,42 @@ const categories = computed(() => {
   return ['All', ...Array.from(uniqueCategories).sort()]
 })
 
-// Filter attractions based on selected category
-const filteredAttractions = computed(() => {
+// Extract unique subcategories for selected category
+const subcategories = computed(() => {
   if (selectedCategory.value === 'All') {
-    return props.attractions
+    return ['All']
   }
-  return props.attractions.filter(a => a.category === selectedCategory.value)
+  const categoryAttractions = props.attractions.filter(a => a.category === selectedCategory.value)
+  const uniqueSubcategories = new Set(
+    categoryAttractions
+      .filter(a => a.subcategory)
+      .map(a => a.subcategory)
+  )
+  return ['All', ...Array.from(uniqueSubcategories).sort()]
+})
+
+// Filter attractions based on selected category and subcategory
+const filteredAttractions = computed(() => {
+  let filtered = props.attractions
+
+  if (selectedCategory.value !== 'All') {
+    filtered = filtered.filter(a => a.category === selectedCategory.value)
+  }
+
+  if (selectedSubcategory.value !== 'All') {
+    filtered = filtered.filter(a => a.subcategory === selectedSubcategory.value)
+  }
+
+  return filtered
 })
 
 const selectCategory = (category) => {
   selectedCategory.value = category
+  selectedSubcategory.value = 'All' // Reset subcategory when category changes
+}
+
+const selectSubcategory = (subcategory) => {
+  selectedSubcategory.value = subcategory
 }
 
 const handleViewDetails = (attraction) => {

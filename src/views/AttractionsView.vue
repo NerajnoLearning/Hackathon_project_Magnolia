@@ -69,7 +69,7 @@
     </k-dialog>
 
     <!-- Quick Access to Favorites -->
-    <div 
+    <div
       v-if="favorites.length > 0"
       class="fixed bottom-6 right-6 z-50"
     >
@@ -78,10 +78,11 @@
         :fill-mode="'solid'"
         :size="'large'"
         class="!rounded-full !shadow-lg hover:scale-110 transition-transform !flex items-center gap-2"
+        :aria-label="`View ${favorites.length} favorite ${favorites.length === 1 ? 'place' : 'places'}`"
         @click="goToFavorites"
         title="View My Favorites"
       >
-        <span class="text-2xl">❤️</span>
+        <span class="text-2xl" aria-hidden="true">❤️</span>
         <div class="flex flex-col items-start text-left">
           <span class="text-xs opacity-90">View</span>
           <span class="font-bold">{{ favorites.length }} saved</span>
@@ -154,7 +155,9 @@ const filteredAttractions = computed(() => {
         attraction.name.toLowerCase().includes(query) ||
         attraction.description.toLowerCase().includes(query) ||
         attraction.category.toLowerCase().includes(query) ||
-        attraction.address.toLowerCase().includes(query)
+        attraction.subcategory?.toLowerCase().includes(query) ||
+        attraction.address.toLowerCase().includes(query) ||
+        attraction.neighborhood?.toLowerCase().includes(query)
       )
     })
   }

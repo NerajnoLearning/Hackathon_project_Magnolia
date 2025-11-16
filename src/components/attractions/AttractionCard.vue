@@ -1,25 +1,33 @@
 <template>
-  <card 
+  <card
     class="attraction-card group cursor-pointer h-full"
+    role="article"
+    :aria-label="`${attraction.name} - ${attraction.category}`"
+    tabindex="0"
     @click="$emit('view-details', attraction)"
+    @keydown.enter="$emit('view-details', attraction)"
+    @keydown.space.prevent="$emit('view-details', attraction)"
   >
     <!-- Image Section -->
     <div class="relative overflow-hidden rounded-t-lg h-48 bg-gray-200">
-      <img 
-        v-if="attraction.image"
-        :src="attraction.image" 
+      <img
+        v-if="primaryImageUrl"
+        :src="primaryImageUrl"
         :alt="attraction.name"
         class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
         @error="handleImageError"
       />
       <div v-else class="flex items-center justify-center h-full bg-gradient-to-br from-jackson-blue to-jackson-green">
-        <span class="text-6xl">🏛️</span>
+        <span class="text-6xl">{{ getCategoryIcon(attraction.category) }}</span>
       </div>
-      
+
       <!-- Category Badge -->
-      <div class="absolute top-3 left-3">
+      <div class="absolute top-3 left-3 flex flex-col gap-1">
         <span class="px-3 py-1 bg-white/90 backdrop-blur-sm text-xs font-semibold rounded-full shadow-md">
           {{ attraction.category }}
+        </span>
+        <span v-if="attraction.subcategory" class="px-3 py-1 bg-white/80 backdrop-blur-sm text-xs text-gray-700 rounded-full shadow-md">
+          {{ attraction.subcategory }}
         </span>
       </div>
 
@@ -29,9 +37,12 @@
           :theme-color="isFavorite ? 'error' : 'base'"
           :fill-mode="'flat'"
           class="!bg-white/90 backdrop-blur-sm !rounded-full !w-10 !h-10 shadow-md hover:scale-110 transition-transform"
+          :aria-label="isFavorite ? `Remove ${attraction.name} from favorites` : `Add ${attraction.name} to favorites`"
+          :aria-pressed="isFavorite"
+          role="button"
           @click.stop="toggleFavorite"
         >
-          <span class="text-xl">{{ isFavorite ? '❤️' : '🤍' }}</span>
+          <span class="text-xl" aria-hidden="true">{{ isFavorite ? '❤️' : '🤍' }}</span>
         </k-button>
       </div>
     </div>
@@ -87,9 +98,11 @@
           :theme-color="isFavorite ? 'error' : 'base'"
           :fill-mode="isFavorite ? 'solid' : 'outline'"
           class="w-full !text-sm !font-medium"
+          :aria-label="isFavorite ? `Remove ${attraction.name} from favorites` : `Add ${attraction.name} to favorites`"
+          :aria-pressed="isFavorite"
           @click.stop="toggleFavorite"
         >
-          <span class="mr-2">{{ isFavorite ? '❤️' : '🤍' }}</span>
+          <span class="mr-2" aria-hidden="true">{{ isFavorite ? '❤️' : '🤍' }}</span>
           {{ isFavorite ? 'Saved to Favorites' : 'Add to Favorites' }}
         </k-button>
       </div>
@@ -119,6 +132,32 @@ const isFavorite = computed(() => {
   return props.favorites.includes(props.attraction.id)
 })
 
+// Get primary image URL from images array or fallback
+const primaryImageUrl = computed(() => {
+  // Check if images array exists and has items
+  if (props.attraction.images && props.attraction.images.length > 0) {
+    const firstImage = props.attraction.images[0]
+    if (firstImage.url && !firstImage.url.includes('example.com')) {
+      return firstImage.url
+    }
+  }
+  return null
+})
+
+// Get appropriate icon based on category
+const getCategoryIcon = (category) => {
+  const iconMap = {
+    'Museum': '🏛️',
+    'Historic Site': '🏛️',
+    'Park/Recreation': '🌳',
+    'Performance Venue': '🎭',
+    'Educational Institution': '🎓',
+    'Archive/Research': '📚',
+    'Entertainment Complex': '🎯'
+  }
+  return iconMap[category] || '🏛️'
+}
+
 const toggleFavorite = () => {
   emit('toggle-favorite', props.attraction.id)
 }
@@ -129,7 +168,8 @@ const openWebsite = (url) => {
 
 const handleImageError = (event) => {
   event.target.style.display = 'none'
-  event.target.parentElement.innerHTML = '<div class="flex items-center justify-center h-full bg-gradient-to-br from-jackson-blue to-jackson-green"><span class="text-6xl">🏛️</span></div>'
+  const icon = getCategoryIcon(props.attraction.category)
+  event.target.parentElement.innerHTML = `<div class="flex items-center justify-center h-full bg-gradient-to-br from-jackson-blue to-jackson-green"><span class="text-6xl">${icon}</span></div>`
 }
 </script>
 
