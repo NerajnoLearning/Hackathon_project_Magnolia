@@ -423,13 +423,6 @@ npm install -D @testing-library/vue
 
 ## Deployment
 
-### Environment Variables
-```env
-VITE_APP_TITLE=Jackson Favorites
-VITE_API_URL=https://api.visitjackson.com
-VITE_MAP_API_KEY=your_map_api_key
-```
-
 ### Deploy Commands
 ```bash
 # Netlify
