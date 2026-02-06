@@ -47,9 +47,17 @@
       "notes": "All venues wheelchair accessible, elevator to second floor"
     },
     "duration": "2-4 hours",
-    "best_for": ["Date nights", "Groups", "Families with teens", "Young professionals"],
+    "best_for": [
+      "Date nights",
+      "Groups",
+      "Families with teens",
+      "Young professionals"
+    ],
     "seasonal_notes": "Outdoor events weather-dependent; check website for Fondren Yard schedule",
-    "nearby_attractions": ["mississippi-museum-of-art", "lefleurs-bluff-state-park"],
+    "nearby_attractions": [
+      "mississippi-museum-of-art",
+      "lefleurs-bluff-state-park"
+    ],
     "transportation": {
       "public_transit": "JATRAN Route 13 stops nearby",
       "rideshare": "Uber/Lyft readily available"
@@ -59,7 +67,11 @@
       "facebook": "theblockatfondren",
       "twitter": "@fondrenfun"
     },
-    "hashtags": ["#FondrenFun", "#JacksonMS", "#HighballLanes"],
+    "hashtags": [
+      "#FondrenFun",
+      "#JacksonMS",
+      "#HighballLanes"
+    ],
     "reviews": {
       "google": "4.5/5 (800+ reviews)",
       "tripadvisor": "4.0/5",
@@ -142,9 +154,17 @@
       "notes": "First floor accessible, second floor by stairs only. Garden paths partially accessible."
     },
     "duration": "1-1.5 hours",
-    "best_for": ["Literature enthusiasts", "History buffs", "Garden lovers", "Students"],
+    "best_for": [
+      "Literature enthusiasts",
+      "History buffs",
+      "Garden lovers",
+      "Students"
+    ],
     "seasonal_notes": "Garden best viewed March-October; house climate-controlled year-round",
-    "nearby_attractions": ["mississippi-museum-of-art", "old-capitol-museum"],
+    "nearby_attractions": [
+      "mississippi-museum-of-art",
+      "old-capitol-museum"
+    ],
     "transportation": {
       "public_transit": "Limited JATRAN service",
       "rideshare": "Uber/Lyft available"
@@ -154,7 +174,11 @@
       "facebook": "EudoraWeltyHouse",
       "twitter": "@WeltyHouse"
     },
-    "hashtags": ["#EudoraWelty", "#LiteraryLandmark", "#JacksonMS"],
+    "hashtags": [
+      "#EudoraWelty",
+      "#LiteraryLandmark",
+      "#JacksonMS"
+    ],
     "reviews": {
       "google": "4.7/5 (250+ reviews)",
       "tripadvisor": "4.5/5",
@@ -237,9 +261,17 @@
       "notes": "Fully accessible facility with elevator"
     },
     "duration": "1-2 hours",
-    "best_for": ["Cultural education", "Students", "Interfaith groups", "History enthusiasts"],
+    "best_for": [
+      "Cultural education",
+      "Students",
+      "Interfaith groups",
+      "History enthusiasts"
+    ],
     "seasonal_notes": "Special programs during Ramadan and Black History Month",
-    "nearby_attractions": ["mississippi-civil-rights-museum", "museum-of-mississippi-history"],
+    "nearby_attractions": [
+      "mississippi-civil-rights-museum",
+      "museum-of-mississippi-history"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Easily accessible"
@@ -249,7 +281,11 @@
       "facebook": "IMMCUS",
       "twitter": "@IMMCUS"
     },
-    "hashtags": ["#IMMCUS", "#IslamicCulture", "#JacksonMuseums"],
+    "hashtags": [
+      "#IMMCUS",
+      "#IslamicCulture",
+      "#JacksonMuseums"
+    ],
     "reviews": {
       "google": "4.6/5 (150+ reviews)",
       "tripadvisor": "4.5/5",
@@ -326,9 +362,18 @@
       "notes": "Paved trails near visitor center, playground partially accessible"
     },
     "duration": "2-6 hours",
-    "best_for": ["Families", "Nature lovers", "Camping", "Fishing", "Picnics"],
+    "best_for": [
+      "Families",
+      "Nature lovers",
+      "Camping",
+      "Fishing",
+      "Picnics"
+    ],
     "seasonal_notes": "Best hiking weather October-May; swimming not permitted in lake",
-    "nearby_attractions": ["mississippi-museum-of-natural-science", "mississippi-childrens-museum"],
+    "nearby_attractions": [
+      "mississippi-museum-of-natural-science",
+      "mississippi-childrens-museum"
+    ],
     "transportation": {
       "public_transit": "Limited service",
       "rideshare": "Available but may have wait times"
@@ -337,7 +382,11 @@
       "instagram": "@msstateparks",
       "facebook": "MississippiStateParks"
     },
-    "hashtags": ["#MSStateParks", "#LeFleursBluff", "#JacksonOutdoors"],
+    "hashtags": [
+      "#MSStateParks",
+      "#LeFleursBluff",
+      "#JacksonOutdoors"
+    ],
     "reviews": {
       "google": "4.3/5 (600+ reviews)",
       "tripadvisor": "4.0/5"
@@ -417,9 +466,17 @@
       "notes": "All exhibits accessible; trail boardwalks wheelchair-friendly"
     },
     "duration": "2-3 hours",
-    "best_for": ["Families", "School groups", "Nature enthusiasts", "All ages"],
+    "best_for": [
+      "Families",
+      "School groups",
+      "Nature enthusiasts",
+      "All ages"
+    ],
     "seasonal_notes": "Outdoor trails best in spring/fall; indoor exhibits climate-controlled",
-    "nearby_attractions": ["lefleurs-bluff-state-park", "mississippi-childrens-museum"],
+    "nearby_attractions": [
+      "lefleurs-bluff-state-park",
+      "mississippi-childrens-museum"
+    ],
     "transportation": {
       "public_transit": "Limited JATRAN service",
       "rideshare": "Available"
@@ -428,7 +485,11 @@
       "instagram": "@msnaturalscience",
       "facebook": "MississippiMuseumofNaturalScience"
     },
-    "hashtags": ["#MSNaturalScience", "#JacksonMuseums", "#MississippiWildlife"],
+    "hashtags": [
+      "#MSNaturalScience",
+      "#JacksonMuseums",
+      "#MississippiWildlife"
+    ],
     "reviews": {
       "google": "4.5/5 (1000+ reviews)",
       "tripadvisor": "4.5/5",
@@ -511,9 +572,17 @@
       "notes": "Main exhibits accessible; some historic buildings have steps"
     },
     "duration": "2-4 hours",
-    "best_for": ["Families", "History enthusiasts", "School groups", "All ages"],
+    "best_for": [
+      "Families",
+      "History enthusiasts",
+      "School groups",
+      "All ages"
+    ],
     "seasonal_notes": "Outdoor areas best in mild weather; special events throughout year",
-    "nearby_attractions": ["mississippi-sports-hall-of-fame", "mississippi-childrens-museum"],
+    "nearby_attractions": [
+      "mississippi-sports-hall-of-fame",
+      "mississippi-childrens-museum"
+    ],
     "transportation": {
       "public_transit": "Limited service",
       "rideshare": "Available"
@@ -522,7 +591,11 @@
       "instagram": "@msagmuseum",
       "facebook": "MSAgMuseum"
     },
-    "hashtags": ["#MSAgMuseum", "#LivingHistory", "#JacksonMS"],
+    "hashtags": [
+      "#MSAgMuseum",
+      "#LivingHistory",
+      "#JacksonMS"
+    ],
     "reviews": {
       "google": "4.4/5 (500+ reviews)",
       "tripadvisor": "4.0/5"
@@ -603,9 +676,16 @@
       "notes": "Sensory-friendly hours first Sunday of each month"
     },
     "duration": "2-4 hours",
-    "best_for": ["Families with children 2-12", "School groups", "Birthday parties"],
+    "best_for": [
+      "Families with children 2-12",
+      "School groups",
+      "Birthday parties"
+    ],
     "seasonal_notes": "Indoor climate-controlled; outdoor garden weather-dependent",
-    "nearby_attractions": ["mississippi-museum-of-natural-science", "lefleurs-bluff-state-park"],
+    "nearby_attractions": [
+      "mississippi-museum-of-natural-science",
+      "lefleurs-bluff-state-park"
+    ],
     "transportation": {
       "public_transit": "Limited service",
       "rideshare": "Available"
@@ -614,7 +694,11 @@
       "instagram": "@mschildrensmuseum",
       "facebook": "MississippiChildrensMuseum"
     },
-    "hashtags": ["#MCMJackson", "#PlayToLearn", "#KidsInJackson"],
+    "hashtags": [
+      "#MCMJackson",
+      "#PlayToLearn",
+      "#KidsInJackson"
+    ],
     "reviews": {
       "google": "4.6/5 (1500+ reviews)",
       "tripadvisor": "4.5/5",
@@ -698,9 +782,17 @@
       "notes": "Audio guides and ASL interpretation available upon request"
     },
     "duration": "2-3 hours",
-    "best_for": ["History education", "Students", "Civil rights interest", "Ages 12+"],
+    "best_for": [
+      "History education",
+      "Students",
+      "Civil rights interest",
+      "Ages 12+"
+    ],
     "seasonal_notes": "Busiest during Black History Month and summer vacation",
-    "nearby_attractions": ["museum-of-mississippi-history", "old-capitol-museum"],
+    "nearby_attractions": [
+      "museum-of-mississippi-history",
+      "old-capitol-museum"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Easily accessible"
@@ -709,7 +801,11 @@
       "instagram": "@mscivilrightsmuseum",
       "facebook": "MississippiCivilRightsMuseum"
     },
-    "hashtags": ["#MCRM", "#CivilRights", "#MississippiHistory"],
+    "hashtags": [
+      "#MCRM",
+      "#CivilRights",
+      "#MississippiHistory"
+    ],
     "reviews": {
       "google": "4.8/5 (2000+ reviews)",
       "tripadvisor": "5.0/5",
@@ -739,7 +835,9 @@
       }
     ],
     "virtual_tour": "https://mcrm.mdah.ms.gov/virtual-tour",
-    "combo_tickets": ["museum-of-mississippi-history"],
+    "combo_tickets": [
+      "museum-of-mississippi-history"
+    ],
     "last_updated": "2024-01-15",
     "status": "Open"
   },
@@ -793,9 +891,17 @@
       "notes": "Wheelchairs available at front desk"
     },
     "duration": "1.5-3 hours",
-    "best_for": ["Art enthusiasts", "Date nights", "Families", "Students"],
+    "best_for": [
+      "Art enthusiasts",
+      "Date nights",
+      "Families",
+      "Students"
+    ],
     "seasonal_notes": "Art Garden best enjoyed in mild weather; Thursday evening free hours popular",
-    "nearby_attractions": ["thalia-mara-hall", "smith-park"],
+    "nearby_attractions": [
+      "thalia-mara-hall",
+      "smith-park"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Easily accessible"
@@ -805,7 +911,11 @@
       "facebook": "MississippiMuseumofArt",
       "twitter": "@MSMuseumArt"
     },
-    "hashtags": ["#MSMuseumArt", "#ArtGardenJXN", "#ThursdayNightsFree"],
+    "hashtags": [
+      "#MSMuseumArt",
+      "#ArtGardenJXN",
+      "#ThursdayNightsFree"
+    ],
     "reviews": {
       "google": "4.4/5 (700+ reviews)",
       "tripadvisor": "4.0/5",
@@ -888,9 +998,17 @@
       "notes": "All exhibits on single floor"
     },
     "duration": "1-2 hours",
-    "best_for": ["Sports fans", "Families", "Mississippi sports history", "All ages"],
+    "best_for": [
+      "Sports fans",
+      "Families",
+      "Mississippi sports history",
+      "All ages"
+    ],
     "seasonal_notes": "Special events during major sports seasons",
-    "nearby_attractions": ["mississippi-agriculture-forestry-museum", "mississippi-childrens-museum"],
+    "nearby_attractions": [
+      "mississippi-agriculture-forestry-museum",
+      "mississippi-childrens-museum"
+    ],
     "transportation": {
       "public_transit": "Limited service",
       "rideshare": "Available"
@@ -899,7 +1017,11 @@
       "instagram": "@mssportshof",
       "facebook": "MSSportsHOF"
     },
-    "hashtags": ["#MSSportsHOF", "#MississippiSports", "#HallOfFame"],
+    "hashtags": [
+      "#MSSportsHOF",
+      "#MississippiSports",
+      "#HallOfFame"
+    ],
     "reviews": {
       "google": "4.5/5 (300+ reviews)",
       "tripadvisor": "4.0/5"
@@ -982,9 +1104,17 @@
       "notes": "All galleries accessible; assistive listening devices available"
     },
     "duration": "1.5-2.5 hours",
-    "best_for": ["History buffs", "Students", "First-time visitors", "All ages"],
+    "best_for": [
+      "History buffs",
+      "Students",
+      "First-time visitors",
+      "All ages"
+    ],
     "seasonal_notes": "Can be combined with Civil Rights Museum for full day experience",
-    "nearby_attractions": ["mississippi-civil-rights-museum", "old-capitol-museum"],
+    "nearby_attractions": [
+      "mississippi-civil-rights-museum",
+      "old-capitol-museum"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Easily accessible"
@@ -993,7 +1123,11 @@
       "instagram": "@mshistorymuseum",
       "facebook": "MuseumofMississippiHistory"
     },
-    "hashtags": ["#MSHistory", "#MDAH", "#MississippiStory"],
+    "hashtags": [
+      "#MSHistory",
+      "#MDAH",
+      "#MississippiStory"
+    ],
     "reviews": {
       "google": "4.6/5 (800+ reviews)",
       "tripadvisor": "4.5/5"
@@ -1022,7 +1156,9 @@
       }
     ],
     "virtual_tour": "https://mmh.mdah.ms.gov/virtual-tour",
-    "combo_tickets": ["mississippi-civil-rights-museum"],
+    "combo_tickets": [
+      "mississippi-civil-rights-museum"
+    ],
     "last_updated": "2024-01-15",
     "status": "Open"
   },
@@ -1065,9 +1201,19 @@
       "notes": "Fully paved and graded for accessibility"
     },
     "duration": "30 minutes - 2 hours",
-    "best_for": ["Walkers", "Runners", "Cyclists", "Families", "Dog walking"],
+    "best_for": [
+      "Walkers",
+      "Runners",
+      "Cyclists",
+      "Families",
+      "Dog walking"
+    ],
     "seasonal_notes": "Best in early morning or evening during summer; beautiful fall foliage",
-    "nearby_attractions": ["mississippi-museum-of-natural-science", "mississippi-childrens-museum", "lefleurs-bluff-state-park"],
+    "nearby_attractions": [
+      "mississippi-museum-of-natural-science",
+      "mississippi-childrens-museum",
+      "lefleurs-bluff-state-park"
+    ],
     "transportation": {
       "public_transit": "Multiple access points near bus stops",
       "rideshare": "Pick-up/drop-off at museum locations"
@@ -1076,7 +1222,11 @@
       "instagram": "#JacksonMuseumTrail",
       "facebook": "City of Jackson Parks"
     },
-    "hashtags": ["#MuseumTrail", "#JacksonTrails", "#GetOutsideJackson"],
+    "hashtags": [
+      "#MuseumTrail",
+      "#JacksonTrails",
+      "#GetOutsideJackson"
+    ],
     "reviews": {
       "google": "4.2/5 (200+ reviews)"
     },
@@ -1148,9 +1298,16 @@
       "notes": "First floor accessible; second floor by stairs only"
     },
     "duration": "1-1.5 hours",
-    "best_for": ["History enthusiasts", "Students", "Cultural education"],
+    "best_for": [
+      "History enthusiasts",
+      "Students",
+      "Cultural education"
+    ],
     "seasonal_notes": "Black History Month special programming in February",
-    "nearby_attractions": ["alamo-theatre", "mississippi-civil-rights-museum"],
+    "nearby_attractions": [
+      "alamo-theatre",
+      "mississippi-civil-rights-museum"
+    ],
     "transportation": {
       "public_transit": "JATRAN routes nearby",
       "rideshare": "Available"
@@ -1158,7 +1315,11 @@
     "social_media": {
       "facebook": "SmithRobertsonMuseum"
     },
-    "hashtags": ["#SmithRobertson", "#FarishStreet", "#JacksonHistory"],
+    "hashtags": [
+      "#SmithRobertson",
+      "#FarishStreet",
+      "#JacksonHistory"
+    ],
     "reviews": {
       "google": "4.3/5 (100+ reviews)"
     },
@@ -1223,9 +1384,17 @@
       "notes": "Renovations included accessibility updates"
     },
     "duration": "2-3 hours per event",
-    "best_for": ["Music lovers", "Theatre enthusiasts", "History buffs", "Date nights"],
+    "best_for": [
+      "Music lovers",
+      "Theatre enthusiasts",
+      "History buffs",
+      "Date nights"
+    ],
     "seasonal_notes": "Check event calendar; not open daily",
-    "nearby_attractions": ["smith-robertson-museum-cultural-center", "mississippi-civil-rights-museum"],
+    "nearby_attractions": [
+      "smith-robertson-museum-cultural-center",
+      "mississippi-civil-rights-museum"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Recommended for evening events"
@@ -1233,7 +1402,11 @@
     "social_media": {
       "facebook": "AlamoTheatreJackson"
     },
-    "hashtags": ["#AlamoTheatre", "#FarishStreet", "#JacksonMusic"],
+    "hashtags": [
+      "#AlamoTheatre",
+      "#FarishStreet",
+      "#JacksonMusic"
+    ],
     "reviews": {
       "google": "4.2/5 (150+ reviews)"
     },
@@ -1299,9 +1472,17 @@
       "notes": "Assistive listening devices, accessible seating available"
     },
     "duration": "2-3 hours typical performance",
-    "best_for": ["Theatre lovers", "Music enthusiasts", "Special occasions", "Date nights"],
+    "best_for": [
+      "Theatre lovers",
+      "Music enthusiasts",
+      "Special occasions",
+      "Date nights"
+    ],
     "seasonal_notes": "September-May primary season; check schedule for summer events",
-    "nearby_attractions": ["mississippi-museum-of-art", "old-capitol-museum"],
+    "nearby_attractions": [
+      "mississippi-museum-of-art",
+      "old-capitol-museum"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN hub nearby",
       "rideshare": "Drop-off zone available"
@@ -1310,7 +1491,11 @@
       "instagram": "@thaliamarahall",
       "facebook": "ThaliaMaraHall"
     },
-    "hashtags": ["#ThaliaMaraHall", "#JacksonArts", "#BroadwayInJackson"],
+    "hashtags": [
+      "#ThaliaMaraHall",
+      "#JacksonArts",
+      "#BroadwayInJackson"
+    ],
     "reviews": {
       "google": "4.5/5 (500+ reviews)",
       "tripadvisor": "4.5/5"
@@ -1380,9 +1565,16 @@
       "notes": "Accessible seating, hearing assistance available"
     },
     "duration": "2-2.5 hours typical performance",
-    "best_for": ["Theatre enthusiasts", "Date nights", "Cultural experiences"],
+    "best_for": [
+      "Theatre enthusiasts",
+      "Date nights",
+      "Cultural experiences"
+    ],
     "seasonal_notes": "September-May main season; limited summer productions",
-    "nearby_attractions": ["eudora-welty-house-garden", "mississippi-museum-of-art"],
+    "nearby_attractions": [
+      "eudora-welty-house-garden",
+      "mississippi-museum-of-art"
+    ],
     "transportation": {
       "public_transit": "Limited JATRAN service",
       "rideshare": "Available"
@@ -1391,7 +1583,11 @@
       "instagram": "@newstagetheatre",
       "facebook": "NewStageTheatre"
     },
-    "hashtags": ["#NewStageTheatre", "#JacksonTheatre", "#MSArts"],
+    "hashtags": [
+      "#NewStageTheatre",
+      "#JacksonTheatre",
+      "#MSArts"
+    ],
     "reviews": {
       "google": "4.6/5 (300+ reviews)",
       "facebook": "4.7/5"
@@ -1463,9 +1659,17 @@
       "notes": "Elevator access to all floors"
     },
     "duration": "45 minutes - 1 hour",
-    "best_for": ["History buffs", "Architecture enthusiasts", "Students", "Tourists"],
+    "best_for": [
+      "History buffs",
+      "Architecture enthusiasts",
+      "Students",
+      "Tourists"
+    ],
     "seasonal_notes": "Popular during legislative session for comparison with current capitol",
-    "nearby_attractions": ["mississippi-civil-rights-museum", "war-memorial-building"],
+    "nearby_attractions": [
+      "mississippi-civil-rights-museum",
+      "war-memorial-building"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN hub",
       "rideshare": "Easy pickup downtown"
@@ -1473,7 +1677,11 @@
     "social_media": {
       "facebook": "OldCapitolMuseum"
     },
-    "hashtags": ["#OldCapitol", "#MSHistory", "#JacksonLandmarks"],
+    "hashtags": [
+      "#OldCapitol",
+      "#MSHistory",
+      "#JacksonLandmarks"
+    ],
     "reviews": {
       "google": "4.5/5 (400+ reviews)",
       "tripadvisor": "4.0/5"
@@ -1545,7 +1753,12 @@
       "notes": "Clubhouse accessible; course terrain varies"
     },
     "duration": "4-5 hours for 18 holes",
-    "best_for": ["Golfers of all levels", "Groups", "Golf lessons", "Tournaments"],
+    "best_for": [
+      "Golfers of all levels",
+      "Groups",
+      "Golf lessons",
+      "Tournaments"
+    ],
     "seasonal_notes": "Year-round play; best conditions March-May and September-November",
     "nearby_attractions": [],
     "transportation": {
@@ -1555,7 +1768,11 @@
     "social_media": {
       "facebook": "PeteBrownGolf"
     },
-    "hashtags": ["#PeteBrownGolf", "#JacksonGolf", "#MunicipalGolf"],
+    "hashtags": [
+      "#PeteBrownGolf",
+      "#JacksonGolf",
+      "#MunicipalGolf"
+    ],
     "reviews": {
       "google": "4.0/5 (200+ reviews)"
     },
@@ -1621,9 +1838,18 @@
       "notes": "Paved paths throughout park"
     },
     "duration": "30 minutes - 2 hours",
-    "best_for": ["Lunch breaks", "Events", "Picnics", "Dog walking", "Relaxation"],
+    "best_for": [
+      "Lunch breaks",
+      "Events",
+      "Picnics",
+      "Dog walking",
+      "Relaxation"
+    ],
     "seasonal_notes": "Spring and fall have most events; summer can be hot midday",
-    "nearby_attractions": ["mississippi-museum-of-art", "thalia-mara-hall"],
+    "nearby_attractions": [
+      "mississippi-museum-of-art",
+      "thalia-mara-hall"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN hub",
       "rideshare": "Easy downtown access"
@@ -1631,7 +1857,11 @@
     "social_media": {
       "instagram": "#SmithParkJXN"
     },
-    "hashtags": ["#SmithPark", "#DowntownJackson", "#JacksonParks"],
+    "hashtags": [
+      "#SmithPark",
+      "#DowntownJackson",
+      "#JacksonParks"
+    ],
     "reviews": {
       "google": "4.1/5 (150+ reviews)"
     },
@@ -1698,7 +1928,12 @@
       "notes": "Main buildings accessible; some historic structures limited"
     },
     "duration": "1-2 hours",
-    "best_for": ["History enthusiasts", "Art lovers", "Students", "Civil rights interest"],
+    "best_for": [
+      "History enthusiasts",
+      "Art lovers",
+      "Students",
+      "Civil rights interest"
+    ],
     "seasonal_notes": "Academic year best for full campus experience; summer quieter",
     "nearby_attractions": [],
     "transportation": {
@@ -1709,7 +1944,11 @@
       "instagram": "@tougaloocollege",
       "facebook": "TougalooCollege"
     },
-    "hashtags": ["#TougalooCollege", "#HBCU", "#CivilRightsHistory"],
+    "hashtags": [
+      "#TougalooCollege",
+      "#HBCU",
+      "#CivilRightsHistory"
+    ],
     "reviews": {
       "google": "4.3/5 (100+ reviews)"
     },
@@ -1775,15 +2014,25 @@
       "notes": "Exterior viewing accessible; interior has stairs"
     },
     "duration": "15-30 minutes",
-    "best_for": ["Veterans", "History buffs", "Architecture enthusiasts"],
+    "best_for": [
+      "Veterans",
+      "History buffs",
+      "Architecture enthusiasts"
+    ],
     "seasonal_notes": "Memorial Day and Veterans Day ceremonies held here",
-    "nearby_attractions": ["old-capitol-museum", "mississippi-civil-rights-museum"],
+    "nearby_attractions": [
+      "old-capitol-museum",
+      "mississippi-civil-rights-museum"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN hub",
       "rideshare": "Easy downtown access"
     },
     "social_media": {},
-    "hashtags": ["#WarMemorial", "#JacksonHistory"],
+    "hashtags": [
+      "#WarMemorial",
+      "#JacksonHistory"
+    ],
     "reviews": {
       "google": "4.2/5 (50+ reviews)"
     },
@@ -1851,9 +2100,17 @@
       "notes": "Fully accessible modern facility"
     },
     "duration": "1-6 hours depending on research needs",
-    "best_for": ["Genealogists", "Researchers", "History students", "Scholars"],
+    "best_for": [
+      "Genealogists",
+      "Researchers",
+      "History students",
+      "Scholars"
+    ],
     "seasonal_notes": "Year-round climate-controlled environment",
-    "nearby_attractions": ["mississippi-civil-rights-museum", "museum-of-mississippi-history"],
+    "nearby_attractions": [
+      "mississippi-civil-rights-museum",
+      "museum-of-mississippi-history"
+    ],
     "transportation": {
       "public_transit": "Downtown JATRAN routes",
       "rideshare": "Available"
@@ -1861,7 +2118,11 @@
     "social_media": {
       "facebook": "MississippiArchives"
     },
-    "hashtags": ["#MSArchives", "#Genealogy", "#MississippiHistory"],
+    "hashtags": [
+      "#MSArchives",
+      "#Genealogy",
+      "#MississippiHistory"
+    ],
     "reviews": {
       "google": "4.6/5 (100+ reviews)"
     },
@@ -1880,6 +2141,1839 @@
         "url": "https://example.com/winter-building.jpg",
         "caption": "Modern archives facility",
         "credit": "MDAH"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "smith-robertson-museum",
+    "name": "Smith Robertson Museum & Cultural Center",
+    "category": "Museum",
+    "subcategory": "African American History",
+    "description": "Mississippi's first museum dedicated to African American history and culture, housed in the first public school for Black children in Jackson (1894). Features extensive collections documenting African American life, from slavery through the Civil Rights era to contemporary culture.",
+    "highlights": [
+      "Historic 1894 school building restoration",
+      "Jackson's first public school for Black children",
+      "Permanent exhibits on Mississippi African American history",
+      "Civil Rights Movement documentation",
+      "Community cultural programs and workshops"
+    ],
+    "address": "528 Bloom Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.2985,
+      "longitude": -90.1842
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.6 miles",
+    "phone": "(601) 960-1457",
+    "website": "https://www.jacksonms.gov/smith-robertson-museum",
+    "hours": {
+      "monday": "9:00 AM - 5:00 PM",
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "10:00 AM - 1:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "adults": "$5",
+      "seniors": "$4",
+      "students": "$3",
+      "children_under_5": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site lot",
+      "spaces": "30"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Elevator access to all floors"
+    },
+    "duration": "1-2 hours",
+    "best_for": [
+      "History enthusiasts",
+      "Students",
+      "Families",
+      "Cultural education"
+    ],
+    "seasonal_notes": "Black History Month programming in February",
+    "nearby_attractions": [
+      "mississippi-civil-rights-museum",
+      "old-capitol-museum"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN downtown routes",
+      "rideshare": "Readily available"
+    },
+    "social_media": {
+      "facebook": "SmithRobertsonMuseum"
+    },
+    "hashtags": [
+      "#SmithRobertsonMuseum",
+      "#BlackHistory",
+      "#JacksonMS"
+    ],
+    "reviews": {
+      "google": "4.6/5 (180+ reviews)",
+      "tripadvisor": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1457",
+      "min_size": 10,
+      "advance_notice": "1 week"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Community room available",
+      "capacity": "Up to 75 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/smith-robertson-exterior.jpg",
+        "caption": "Historic 1894 school building",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mississippi-sports-hall-fame",
+    "name": "Mississippi Sports Hall of Fame & Museum",
+    "category": "Museum",
+    "subcategory": "Sports History",
+    "description": "Comprehensive museum celebrating Mississippi's rich sports heritage, featuring interactive exhibits on legendary athletes including Jerry Rice, Walter Payton, Brett Favre, and Archie Manning. Includes multimedia displays, memorabilia, and hands-on sports activities.",
+    "highlights": [
+      "Over 200 inductees from all major sports",
+      "Interactive exhibits and simulators",
+      "Hall of Champions with athlete profiles",
+      "Memorabilia from Mississippi sports legends",
+      "Youth sports activity zones"
+    ],
+    "address": "1152 Lakeland Drive, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3298,
+      "longitude": -90.1623
+    },
+    "neighborhood": "Northeast Jackson",
+    "distance_from_downtown": "4.8 miles",
+    "phone": "(601) 982-8264",
+    "website": "https://www.msfame.com",
+    "hours": {
+      "monday": "10:00 AM - 4:00 PM",
+      "tuesday": "10:00 AM - 4:00 PM",
+      "wednesday": "10:00 AM - 4:00 PM",
+      "thursday": "10:00 AM - 4:00 PM",
+      "friday": "10:00 AM - 4:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "adults": "$8",
+      "seniors": "$6",
+      "students": "$5",
+      "children_under_5": "Free",
+      "military": "$6"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lot",
+      "spaces": "100+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully accessible facility"
+    },
+    "duration": "1.5-2.5 hours",
+    "best_for": [
+      "Sports fans",
+      "Families with kids",
+      "School groups",
+      "Mississippi pride"
+    ],
+    "seasonal_notes": "Special exhibits during college football season",
+    "nearby_attractions": [
+      "lefleurs-bluff-state-park",
+      "mississippi-museum-of-natural-science"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN Route 13",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "MSSportsHallofFame",
+      "instagram": "@mssportshof",
+      "twitter": "@MSSportsHOF"
+    },
+    "hashtags": [
+      "#MSSportsHOF",
+      "#HottyToddy",
+      "#HailState"
+    ],
+    "reviews": {
+      "google": "4.4/5 (350+ reviews)",
+      "tripadvisor": "4.0/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 982-8264",
+      "min_size": 15,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "induction_ceremony": "Annual in summer",
+      "private_rental": true,
+      "event_space": "Banquet hall available"
+    },
+    "images": [
+      {
+        "url": "https://example.com/sports-hof-exterior.jpg",
+        "caption": "Museum entrance with sports memorabilia",
+        "credit": "MS Sports Hall of Fame"
+      }
+    ],
+    "virtual_tour": "https://www.msfame.com/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "russell-c-davis-planetarium",
+    "name": "Russell C. Davis Planetarium",
+    "category": "Science Center",
+    "subcategory": "Planetarium",
+    "description": "State-of-the-art planetarium featuring a 60-foot dome theater with digital projection system. Offers astronomy shows, laser light concerts, and educational programs about space science, featuring both live presentations and pre-recorded shows.",
+    "highlights": [
+      "60-foot domed projection screen",
+      "Full-dome digital projection system",
+      "Live and pre-recorded astronomy shows",
+      "Laser light concerts with popular music",
+      "Science education programs for all ages"
+    ],
+    "address": "201 E Pascagoula Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3015,
+      "longitude": -90.1845
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.2 miles",
+    "phone": "(601) 960-1550",
+    "website": "https://www.jacksonms.gov/planetarium",
+    "hours": {
+      "tuesday": "10:00 AM - 4:00 PM",
+      "wednesday": "10:00 AM - 4:00 PM",
+      "thursday": "10:00 AM - 4:00 PM",
+      "friday": "10:00 AM - 9:00 PM",
+      "saturday": "10:00 AM - 9:00 PM",
+      "sunday": "1:00 PM - 5:00 PM",
+      "monday": "Closed",
+      "notes": "Show times vary; check website for schedule"
+    },
+    "admission": {
+      "adults": "$7",
+      "seniors": "$6",
+      "children": "$5",
+      "laser_shows": "$9"
+    },
+    "parking": {
+      "available": true,
+      "type": "City parking garage nearby",
+      "spaces": "300+ nearby"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Theater seating accommodates wheelchairs"
+    },
+    "duration": "1-1.5 hours per show",
+    "best_for": [
+      "Families",
+      "Science enthusiasts",
+      "Date nights",
+      "School groups"
+    ],
+    "seasonal_notes": "Summer schedule includes more frequent shows",
+    "nearby_attractions": [
+      "international-museum-of-muslim-cultures",
+      "old-capitol-museum"
+    ],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {
+      "facebook": "RCDavisPlanetarium"
+    },
+    "hashtags": [
+      "#JacksonPlanetarium",
+      "#Astronomy",
+      "#SpaceScience"
+    ],
+    "reviews": {
+      "google": "4.3/5 (200+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1550",
+      "min_size": 20,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_shows": true,
+      "birthday_parties": true,
+      "capacity": "Up to 100 in theater"
+    },
+    "images": [
+      {
+        "url": "https://example.com/planetarium-dome.jpg",
+        "caption": "Interior dome theater",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mississippi-childrens-museum",
+    "name": "Mississippi Children's Museum",
+    "category": "Museum",
+    "subcategory": "Children's Museum",
+    "description": "Interactive learning center with hands-on exhibits designed for children ages 0-10. Features include a literacy garden, health and nutrition zone, STEM activities, art studio, and outdoor exploration areas. Focuses on Mississippi culture, literacy, health, and STEM education.",
+    "highlights": [
+      "40,000 square feet of interactive exhibits",
+      "1.2-acre Literacy Garden with outdoor play",
+      "Mississippi-themed exhibits and activities",
+      "Art studio and maker spaces",
+      "Health and nutrition education zones"
+    ],
+    "address": "2145 Museum Boulevard, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3098,
+      "longitude": -90.1952
+    },
+    "neighborhood": "LeFleur's Bluff",
+    "distance_from_downtown": "2.3 miles",
+    "phone": "(601) 981-5469",
+    "website": "https://www.mschildrensmuseum.org",
+    "hours": {
+      "tuesday": "9:00 AM - 5:00 PM",
+      "wednesday": "9:00 AM - 5:00 PM",
+      "thursday": "9:00 AM - 5:00 PM",
+      "friday": "9:00 AM - 5:00 PM",
+      "saturday": "9:00 AM - 5:00 PM",
+      "sunday": "1:00 PM - 5:00 PM",
+      "monday": "Closed"
+    },
+    "admission": {
+      "general": "$15",
+      "children_under_1": "Free",
+      "seniors": "$12",
+      "military": "$12",
+      "notes": "Annual memberships available"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lot",
+      "spaces": "200+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully accessible modern facility"
+    },
+    "duration": "2-4 hours",
+    "best_for": [
+      "Families with young children",
+      "Preschool groups",
+      "Birthday parties"
+    ],
+    "seasonal_notes": "Outdoor activities best March-November",
+    "nearby_attractions": [
+      "lefleurs-bluff-state-park",
+      "mississippi-museum-of-natural-science"
+    ],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "MSChildrensMuseum",
+      "instagram": "@mschildrensmuseum",
+      "twitter": "@MSChildMuseum"
+    },
+    "hashtags": [
+      "#MSChildrensMuseum",
+      "#LearnThroughPlay",
+      "#JacksonMS"
+    ],
+    "reviews": {
+      "google": "4.7/5 (1500+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "groups@mschildrensmuseum.org",
+      "min_size": 10,
+      "advance_notice": "2 weeks"
+    },
+    "special_events": {
+      "private_rental": true,
+      "birthday_parties": true,
+      "event_space": "Multiple party rooms",
+      "capacity": "Varies by space"
+    },
+    "images": [
+      {
+        "url": "https://example.com/childrens-museum-exterior.jpg",
+        "caption": "Modern museum building with outdoor play area",
+        "credit": "MS Children's Museum"
+      }
+    ],
+    "virtual_tour": "https://www.mschildrensmuseum.org/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "belhaven-heights-historic-district",
+    "name": "Belhaven Heights Historic District",
+    "category": "Neighborhood",
+    "subcategory": "Historic District",
+    "description": "Charming historic neighborhood featuring early 20th-century architecture including Craftsman bungalows, Colonial Revival, and Tudor Revival homes. Tree-lined streets perfect for walking tours, with proximity to Belhaven University, local shops, and restaurants.",
+    "highlights": [
+      "Diverse architectural styles from 1910s-1940s",
+      "Tree-lined streets ideal for walking",
+      "Near Belhaven University campus",
+      "Historic homes and gardens",
+      "Walkable to Fondren district"
+    ],
+    "address": "Belhaven Heights, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3289,
+      "longitude": -90.1876
+    },
+    "neighborhood": "Belhaven",
+    "distance_from_downtown": "2.8 miles",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "general": "Always accessible for street viewing"
+    },
+    "admission": {
+      "general": "Free - public streets"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free street parking",
+      "spaces": "Ample"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": "Public sidewalks",
+      "notes": "Sidewalks available on most streets"
+    },
+    "duration": "1-2 hours for walking tour",
+    "best_for": [
+      "Architecture enthusiasts",
+      "History buffs",
+      "Walkers",
+      "Photographers"
+    ],
+    "seasonal_notes": "Spring and fall ideal for walking tours",
+    "nearby_attractions": [
+      "eudora-welty-house-garden",
+      "belhaven-university"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {},
+    "hashtags": [
+      "#BelhavenHeights",
+      "#HistoricJackson",
+      "#Architecture"
+    ],
+    "reviews": {
+      "google": "4.5/5 (75+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false,
+      "notes": "Self-guided tours of public streets"
+    },
+    "special_events": {
+      "home_tours": "Occasional historic home tours",
+      "garden_tours": "Spring garden tours"
+    },
+    "images": [
+      {
+        "url": "https://example.com/belhaven-heights.jpg",
+        "caption": "Historic homes on tree-lined street",
+        "credit": "Visit Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "livingston-park",
+    "name": "Livingston Park",
+    "category": "Park",
+    "subcategory": "Urban Park",
+    "description": "Neighborhood park in Belhaven area featuring walking trails, playground equipment, tennis courts, and open green spaces. Popular spot for community gatherings, casual sports, and family picnics.",
+    "highlights": [
+      "Walking and jogging trails",
+      "Tennis courts",
+      "Playground equipment",
+      "Picnic pavilions",
+      "Open green spaces for sports"
+    ],
+    "address": "741 Riverside Drive, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3267,
+      "longitude": -90.1912
+    },
+    "neighborhood": "Belhaven",
+    "distance_from_downtown": "2.5 miles",
+    "phone": "(601) 960-1894",
+    "website": "https://www.jacksonms.gov/parks",
+    "hours": {
+      "general": "Dawn to dusk daily"
+    },
+    "admission": {
+      "general": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lot",
+      "spaces": "50+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Some paved paths",
+      "notes": "Main paths accessible, tennis courts accessible"
+    },
+    "duration": "1-3 hours",
+    "best_for": [
+      "Families",
+      "Joggers",
+      "Tennis players",
+      "Dog walkers"
+    ],
+    "seasonal_notes": "Peak usage spring and fall; summer can be very hot",
+    "nearby_attractions": [
+      "eudora-welty-house-garden",
+      "belhaven-university"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {},
+    "hashtags": [
+      "#LivingstonPark",
+      "#JacksonParks"
+    ],
+    "reviews": {
+      "google": "4.2/5 (120+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "pavilion_rental": true,
+      "contact": "(601) 960-1894"
+    },
+    "images": [
+      {
+        "url": "https://example.com/livingston-park.jpg",
+        "caption": "Park trails and green space",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "rainbow-natural-foods-cooperative",
+    "name": "Rainbow Natural Foods Cooperative",
+    "category": "Specialty Shop",
+    "subcategory": "Natural Foods",
+    "description": "Jackson's only natural foods cooperative and health food store, operating since 1974. Member-owned grocery featuring organic produce, bulk foods, supplements, natural body care products, and locally sourced items. Community hub with classes and events.",
+    "highlights": [
+      "Mississippi's oldest natural foods co-op",
+      "Organic and local produce",
+      "Bulk foods and herbs",
+      "Extensive supplement selection",
+      "Community classes and workshops"
+    ],
+    "address": "2807 Old Canton Road, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3401,
+      "longitude": -90.1689
+    },
+    "neighborhood": "North Jackson",
+    "distance_from_downtown": "5.2 miles",
+    "phone": "(601) 366-1602",
+    "website": "https://www.rainbowcoop.org",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "9:00 AM - 7:00 PM",
+      "sunday": "12:00 PM - 6:00 PM"
+    },
+    "admission": {
+      "general": "Free entry - shopping venue",
+      "membership": "$100 one-time equity share (optional)"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lot",
+      "spaces": "40+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Single-level accessible store"
+    },
+    "duration": "30 minutes - 1 hour",
+    "best_for": [
+      "Health-conscious shoppers",
+      "Organic food seekers",
+      "Local food supporters"
+    ],
+    "seasonal_notes": "Seasonal produce varies; local items peak in summer",
+    "nearby_attractions": [
+      "fondren-district",
+      "belhaven-university"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN Route 13",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "RainbowCoopJackson",
+      "instagram": "@rainbowcoop"
+    },
+    "hashtags": [
+      "#RainbowCoop",
+      "#ShopLocal",
+      "#OrganicFood"
+    ],
+    "reviews": {
+      "google": "4.6/5 (400+ reviews)",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 366-1602",
+      "educational_tours": true
+    },
+    "special_events": {
+      "classes": "Regular cooking and wellness classes",
+      "community_events": "Monthly community meetings"
+    },
+    "images": [
+      {
+        "url": "https://example.com/rainbow-coop.jpg",
+        "caption": "Store exterior and produce section",
+        "credit": "Rainbow Co-op"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "battlefield-park",
+    "name": "Battlefield Park",
+    "category": "Historic Site",
+    "subcategory": "Civil War Battlefield",
+    "description": "Site of the May 14, 1863 Battle of Jackson during the Vicksburg Campaign. Small park with interpretive markers explaining the Civil War engagement where Union forces under Sherman defeated Confederate defenders, leading to the burning of Jackson.",
+    "highlights": [
+      "Civil War battlefield preservation",
+      "Historical markers and interpretive signs",
+      "Part of Vicksburg Campaign",
+      "Commemorates May 14, 1863 battle",
+      "Quiet reflection space"
+    ],
+    "address": "Porter Street & Langley Avenue, Jackson, MS 39209",
+    "coordinates": {
+      "latitude": 32.2876,
+      "longitude": -90.1945
+    },
+    "neighborhood": "South Jackson",
+    "distance_from_downtown": "1.8 miles",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "general": "Dawn to dusk daily"
+    },
+    "admission": {
+      "general": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Limited street parking",
+      "spaces": "10-15"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "Uneven terrain, limited paths"
+    },
+    "duration": "30 minutes - 1 hour",
+    "best_for": [
+      "History buffs",
+      "Civil War enthusiasts",
+      "Students"
+    ],
+    "seasonal_notes": "Best visited spring and fall; summer very hot",
+    "nearby_attractions": [
+      "old-capitol-museum",
+      "mississippi-civil-rights-museum"
+    ],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available"
+    },
+    "social_media": {},
+    "hashtags": [
+      "#CivilWarHistory",
+      "#JacksonMS",
+      "#BattlefieldPark"
+    ],
+    "reviews": {
+      "google": "3.8/5 (25+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false,
+      "notes": "Self-guided with markers"
+    },
+    "special_events": {
+      "commemorations": "Annual battle anniversary in May"
+    },
+    "images": [
+      {
+        "url": "https://example.com/battlefield-park.jpg",
+        "caption": "Historical marker at battle site",
+        "credit": "Visit Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mississippi-governors-mansion",
+    "name": "Mississippi Governor's Mansion",
+    "category": "Historic Site",
+    "subcategory": "Government Building",
+    "description": "Second-oldest continuously occupied governor's residence in the US (since 1842). Greek Revival mansion designated as a National Historic Landmark. Features period furnishings, Southern architecture, and beautiful gardens. Public tours available.",
+    "highlights": [
+      "National Historic Landmark",
+      "Second-oldest governor's mansion in use",
+      "Greek Revival architecture from 1842",
+      "Period furnishings and d\u00e9cor",
+      "Beautifully maintained gardens"
+    ],
+    "address": "300 East Capitol Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3034,
+      "longitude": -90.1789
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.5 miles",
+    "phone": "(601) 359-6421",
+    "website": "https://www.governorsmansion.ms.gov",
+    "hours": {
+      "tours": "Tuesday-Friday by appointment",
+      "tour_times": "9:30 AM, 10:30 AM, 11:30 AM",
+      "closed": "State holidays and special events"
+    },
+    "admission": {
+      "general": "Free (advance reservation required)"
+    },
+    "parking": {
+      "available": true,
+      "type": "Metered street parking",
+      "spaces": "Limited nearby"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": false,
+      "notes": "First floor accessible; stairs to second floor"
+    },
+    "duration": "45 minutes - 1 hour",
+    "best_for": [
+      "History enthusiasts",
+      "Architecture lovers",
+      "School groups",
+      "Tourists"
+    ],
+    "seasonal_notes": "Gardens especially beautiful in spring",
+    "nearby_attractions": [
+      "old-capitol-museum",
+      "mississippi-state-capitol"
+    ],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {
+      "facebook": "MSGovernorsMansion"
+    },
+    "hashtags": [
+      "#GovernorsMansion",
+      "#JacksonHistory",
+      "#NationalLandmark"
+    ],
+    "reviews": {
+      "google": "4.7/5 (150+ reviews)",
+      "tripadvisor": "4.5/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 359-6421",
+      "min_size": 10,
+      "max_size": 30,
+      "advance_notice": "2 weeks minimum"
+    },
+    "special_events": {
+      "private_rental": false,
+      "special_tours": "During Christmas season"
+    },
+    "images": [
+      {
+        "url": "https://example.com/governors-mansion.jpg",
+        "caption": "Greek Revival facade and entrance",
+        "credit": "State of Mississippi"
+      }
+    ],
+    "virtual_tour": "https://www.governorsmansion.ms.gov/virtual",
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "lemuria-bookstore",
+    "name": "Lemuria Bookstore",
+    "category": "Specialty Shop",
+    "subcategory": "Independent Bookstore",
+    "description": "Mississippi's premier independent bookstore since 1975, featuring carefully curated fiction, non-fiction, children's books, and extensive Southern literature section. Regular author events, book signings, and community readings. Part of Banner Hall shopping center.",
+    "highlights": [
+      "Independent bookstore since 1975",
+      "Extensive Southern literature collection",
+      "Frequent author events and signings",
+      "Knowledgeable staff recommendations",
+      "Cozy reading atmosphere"
+    ],
+    "address": "4465 Interstate 55 North, Banner Hall, Jackson, MS 39211",
+    "coordinates": {
+      "latitude": 32.3723,
+      "longitude": -90.1456
+    },
+    "neighborhood": "North Jackson",
+    "distance_from_downtown": "7.5 miles",
+    "phone": "(601) 366-7619",
+    "website": "https://www.lemuriabooks.com",
+    "hours": {
+      "monday": "9:00 AM - 5:30 PM",
+      "tuesday": "9:00 AM - 5:30 PM",
+      "wednesday": "9:00 AM - 5:30 PM",
+      "thursday": "9:00 AM - 5:30 PM",
+      "friday": "9:00 AM - 5:30 PM",
+      "saturday": "9:00 AM - 5:30 PM",
+      "sunday": "Closed"
+    },
+    "admission": {
+      "general": "Free entry - retail store"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free shopping center lot",
+      "spaces": "100+ shared"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Ground level accessible store"
+    },
+    "duration": "30 minutes - 2 hours",
+    "best_for": [
+      "Book lovers",
+      "Literary enthusiasts",
+      "Gift shoppers",
+      "Author event attendees"
+    ],
+    "seasonal_notes": "Holiday season features extended hours and special events",
+    "nearby_attractions": [
+      "mississippi-sports-hall-fame",
+      "highland-village"
+    ],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "LemuriaBooks",
+      "instagram": "@lemuriabooks",
+      "twitter": "@LemuriaBooks"
+    },
+    "hashtags": [
+      "#LemuriaBooks",
+      "#IndieBookstore",
+      "#SupportLocal"
+    ],
+    "reviews": {
+      "google": "4.8/5 (500+ reviews)",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "author_events": "Regular author readings and signings",
+      "book_clubs": "Multiple book club meetings",
+      "children_events": "Story time sessions"
+    },
+    "images": [
+      {
+        "url": "https://example.com/lemuria-interior.jpg",
+        "caption": "Bookstore interior with displays",
+        "credit": "Lemuria Books"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "metrocenter-mall",
+    "name": "Metrocenter Mall Historic Site",
+    "category": "Historic Site",
+    "subcategory": "Retail History",
+    "description": "Former major shopping mall (1978-2018) representing retail history in Jackson. While no longer operating as a mall, the site represents an important chapter in Jackson's commercial development and is noted for its role in community life.",
+    "highlights": [
+      "Significant in Jackson retail history",
+      "Once Jackson's premier shopping destination",
+      "1970s-80s retail architecture",
+      "Community gathering place for decades",
+      "Currently being redeveloped"
+    ],
+    "address": "3645 US-80, Jackson, MS 39209",
+    "coordinates": {
+      "latitude": 32.2934,
+      "longitude": -90.2456
+    },
+    "neighborhood": "West Jackson",
+    "distance_from_downtown": "4.5 miles",
+    "phone": null,
+    "website": null,
+    "hours": {
+      "status": "Closed to public - private property"
+    },
+    "admission": {
+      "general": "Not accessible - closed facility"
+    },
+    "parking": {
+      "available": false,
+      "type": "Property closed"
+    },
+    "accessibility": {
+      "wheelchair_accessible": false,
+      "ada_compliant": false,
+      "notes": "Closed facility"
+    },
+    "duration": "Exterior viewing only",
+    "best_for": [
+      "Retail historians",
+      "Urban explorers (exterior only)",
+      "Nostalgia seekers"
+    ],
+    "seasonal_notes": "View from public roads only",
+    "nearby_attractions": [
+      "jackson-zoo"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {},
+    "hashtags": [
+      "#MetrocenterMall",
+      "#DeadMalls",
+      "#JacksonHistory"
+    ],
+    "reviews": {
+      "google": "3.5/5 (historical reviews)",
+      "notes": "Reviews reflect nostalgia for former mall"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false,
+      "notes": "Private property - no access"
+    },
+    "special_events": {
+      "notes": "Future redevelopment planned"
+    },
+    "images": [
+      {
+        "url": "https://example.com/metrocenter-exterior.jpg",
+        "caption": "Former mall exterior",
+        "credit": "Historical Archive"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Closed"
+  },
+  {
+    "id": "thalia-mara-hall",
+    "name": "Thalia Mara Hall",
+    "category": "Performing Arts",
+    "subcategory": "Concert Hall",
+    "description": "Jackson's premier performing arts venue with 2,500-seat capacity. Home to Mississippi Symphony Orchestra, Ballet Mississippi, and Opera Mississippi. Hosts concerts, Broadway shows, dance performances, and community events in elegant mid-century modern building.",
+    "highlights": [
+      "2,500-seat capacity concert hall",
+      "Home to three resident companies",
+      "Broadway touring shows",
+      "Excellent acoustics",
+      "Mid-century modern architecture"
+    ],
+    "address": "255 E Pascagoula Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3023,
+      "longitude": -90.1823
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.3 miles",
+    "phone": "(601) 960-1537",
+    "website": "https://www.thaliamarahall.com",
+    "hours": {
+      "box_office": "Monday-Friday 9:00 AM - 5:00 PM",
+      "event_times": "Vary by performance"
+    },
+    "admission": {
+      "general": "Varies by performance",
+      "range": "$25-150 depending on show and seat",
+      "notes": "Season subscriptions available"
+    },
+    "parking": {
+      "available": true,
+      "type": "City parking garage adjacent",
+      "spaces": "500+",
+      "cost": "$5-10 for events"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Wheelchair seating available; assistive listening devices"
+    },
+    "duration": "2-3 hours typical performance",
+    "best_for": [
+      "Theater lovers",
+      "Music enthusiasts",
+      "Date nights",
+      "Cultural events"
+    ],
+    "seasonal_notes": "Peak season September-May; summer schedule varies",
+    "nearby_attractions": [
+      "russell-c-davis-planetarium",
+      "old-capitol-museum"
+    ],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {
+      "facebook": "ThaliaMaraHall",
+      "instagram": "@thaliamarahall"
+    },
+    "hashtags": [
+      "#ThaliaMaraHall",
+      "#JacksonArts",
+      "#LivePerformance"
+    ],
+    "reviews": {
+      "google": "4.5/5 (400+ reviews)",
+      "tripadvisor": "4.0/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1537",
+      "educational_tours": true
+    },
+    "special_events": {
+      "venue_rental": true,
+      "event_space": "Full theater or meeting rooms",
+      "capacity": "Up to 2,500"
+    },
+    "images": [
+      {
+        "url": "https://example.com/thalia-mara-exterior.jpg",
+        "caption": "Concert hall exterior",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "fairview-inn",
+    "name": "Fairview Inn Historic Property",
+    "category": "Historic Site",
+    "subcategory": "Historic Inn",
+    "description": "Elegant Colonial Revival mansion (1908) converted to luxury boutique hotel and restaurant. Features period architecture, manicured gardens, and fine dining. Popular for weddings, special occasions, and upscale accommodations. National Register of Historic Places.",
+    "highlights": [
+      "1908 Colonial Revival mansion",
+      "National Register of Historic Places",
+      "Luxury boutique hotel",
+      "Award-winning restaurant",
+      "Beautiful gardens and grounds"
+    ],
+    "address": "734 Fairview Street, Jackson, MS 39202",
+    "coordinates": {
+      "latitude": 32.3198,
+      "longitude": -90.1834
+    },
+    "neighborhood": "Belhaven",
+    "distance_from_downtown": "2.2 miles",
+    "phone": "(601) 948-3429",
+    "website": "https://www.fairviewinn.com",
+    "hours": {
+      "restaurant": "Dinner Tuesday-Saturday",
+      "grounds": "Guests and dining patrons"
+    },
+    "admission": {
+      "grounds": "Free for guests and diners",
+      "dining": "Fine dining prices",
+      "lodging": "$200-400/night"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free on-site parking",
+      "spaces": "30+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Some rooms and areas",
+      "notes": "Historic building with some accessibility limitations"
+    },
+    "duration": "2-3 hours for dinner; overnight stays",
+    "best_for": [
+      "Special occasions",
+      "Romantic getaways",
+      "Fine dining",
+      "Weddings"
+    ],
+    "seasonal_notes": "Gardens best in spring; popular for holiday events",
+    "nearby_attractions": [
+      "eudora-welty-house-garden",
+      "belhaven-university"
+    ],
+    "transportation": {
+      "public_transit": "Limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "FairviewInnJackson",
+      "instagram": "@fairviewinn"
+    },
+    "hashtags": [
+      "#FairviewInn",
+      "#HistoricHotel",
+      "#FineDining"
+    ],
+    "reviews": {
+      "google": "4.6/5 (300+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false,
+      "notes": "Private property - guests only"
+    },
+    "special_events": {
+      "venue_rental": true,
+      "weddings": true,
+      "event_space": "Indoor and outdoor spaces",
+      "capacity": "Up to 150 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/fairview-inn.jpg",
+        "caption": "Historic mansion and gardens",
+        "credit": "Fairview Inn"
+      }
+    ],
+    "virtual_tour": "https://www.fairviewinn.com/virtual-tour",
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mississippi-braves-trustmark-park",
+    "name": "Mississippi Braves at Trustmark Park",
+    "category": "Sports & Recreation",
+    "subcategory": "Baseball Stadium",
+    "description": "Home of the Mississippi Braves, Double-A affiliate of the Atlanta Braves. Modern 8,400-seat ballpark in Pearl (suburb of Jackson) offers family-friendly minor league baseball entertainment with promotions, fireworks, and community events throughout the season.",
+    "highlights": [
+      "Double-A affiliate of Atlanta Braves",
+      "8,400-seat capacity stadium",
+      "Regular fireworks nights",
+      "Family-friendly entertainment",
+      "Championship-winning team history"
+    ],
+    "address": "1 Braves Way, Pearl, MS 39208",
+    "coordinates": {
+      "latitude": 32.2745,
+      "longitude": -90.0934
+    },
+    "neighborhood": "Pearl (Jackson metro)",
+    "distance_from_downtown": "8 miles east",
+    "phone": "(601) 932-8788",
+    "website": "https://www.milb.com/mississippi",
+    "hours": {
+      "season": "April through September",
+      "game_times": "Varies; typically 6:35 PM or 7:05 PM",
+      "box_office": "Monday-Friday 9:00 AM - 5:00 PM"
+    },
+    "admission": {
+      "general": "$8-25 depending on seat location",
+      "kids": "Discounts available",
+      "promotions": "Special theme nights and giveaways",
+      "parking": "$5"
+    },
+    "parking": {
+      "available": true,
+      "type": "Stadium parking lot",
+      "spaces": "2000+",
+      "cost": "$5"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Wheelchair seating throughout stadium; accessible restrooms"
+    },
+    "duration": "3-4 hours typical game",
+    "best_for": [
+      "Families",
+      "Sports fans",
+      "Date nights",
+      "Group outings"
+    ],
+    "seasonal_notes": "Season runs April-September; peak attendance weekends and promotions",
+    "nearby_attractions": [
+      "renaissance-at-colony-park"
+    ],
+    "transportation": {
+      "public_transit": "Not available",
+      "rideshare": "Available with surge on game nights"
+    },
+    "social_media": {
+      "facebook": "MSBraves",
+      "instagram": "@msbravesbaseball",
+      "twitter": "@msbravesbaseball"
+    },
+    "hashtags": [
+      "#MSBraves",
+      "#MinorLeagueBaseball",
+      "#ChopOn"
+    ],
+    "reviews": {
+      "google": "4.6/5 (2000+ reviews)",
+      "tripadvisor": "4.5/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 932-8788",
+      "group_tickets": "Discounts for 20+",
+      "suite_rental": "Available"
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Suites and party decks",
+      "fireworks": "Friday and Saturday home games"
+    },
+    "images": [
+      {
+        "url": "https://example.com/trustmark-park.jpg",
+        "caption": "Ballpark during night game",
+        "credit": "Mississippi Braves"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mynelle-gardens",
+    "name": "Mynelle Gardens",
+    "category": "Garden",
+    "subcategory": "Botanical Garden",
+    "description": "Seven-acre botanical garden featuring azaleas, camellias, daylilies, Japanese garden, and historic ruins. Created in 1920s by Mynelle Westbrook Hayward. Peaceful walking paths, koi ponds, and seasonal blooms. Popular for photography and weddings.",
+    "highlights": [
+      "7 acres of cultivated gardens",
+      "Japanese garden with koi pond",
+      "Extensive azalea and camellia collections",
+      "Historic ruins and garden structures",
+      "Seasonal blooms year-round"
+    ],
+    "address": "4736 Clinton Boulevard, Jackson, MS 39209",
+    "coordinates": {
+      "latitude": 32.3123,
+      "longitude": -90.2345
+    },
+    "neighborhood": "West Jackson",
+    "distance_from_downtown": "5.5 miles",
+    "phone": "(601) 960-1894",
+    "website": "https://www.jacksonms.gov/mynelle-gardens",
+    "hours": {
+      "march_october": "8:00 AM - 5:30 PM daily",
+      "november_february": "8:00 AM - 5:00 PM daily",
+      "closed": "Thanksgiving, Christmas, New Year's"
+    },
+    "admission": {
+      "adults": "$5",
+      "seniors": "$4",
+      "children": "$3",
+      "children_under_3": "Free"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lot",
+      "spaces": "50+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Some paved paths",
+      "notes": "Main paths accessible; some garden areas have steps"
+    },
+    "duration": "1-2 hours",
+    "best_for": [
+      "Nature lovers",
+      "Photographers",
+      "Peaceful walks",
+      "Garden enthusiasts"
+    ],
+    "seasonal_notes": "Peak blooms: azaleas March-April, daylilies May-July, camellias November-February",
+    "nearby_attractions": [
+      "jackson-zoo",
+      "lefleurs-bluff-state-park"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN limited service",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "MynelleGardens"
+    },
+    "hashtags": [
+      "#MynelleGardens",
+      "#JacksonGardens",
+      "#BotanicalGarden"
+    ],
+    "reviews": {
+      "google": "4.5/5 (350+ reviews)",
+      "tripadvisor": "4.5/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1894",
+      "min_size": 10
+    },
+    "special_events": {
+      "venue_rental": true,
+      "weddings": true,
+      "event_space": "Garden areas available",
+      "capacity": "Up to 150 guests"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mynelle-gardens.jpg",
+        "caption": "Japanese garden with koi pond",
+        "credit": "City of Jackson"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mississippi-museum-of-art-art-garden",
+    "name": "Mississippi Museum of Art Garden",
+    "category": "Garden",
+    "subcategory": "Sculpture Garden",
+    "description": "One-acre urban sculpture garden behind the Mississippi Museum of Art. Features contemporary sculptures, native Mississippi plants, walking paths, and outdoor seating. Free public space perfect for lunch breaks, contemplation, or casual strolls.",
+    "highlights": [
+      "Contemporary outdoor sculptures",
+      "Native Mississippi plantings",
+      "Urban green space downtown",
+      "Free public access",
+      "Integration of art and nature"
+    ],
+    "address": "380 South Lamar Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.2998,
+      "longitude": -90.1876
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.4 miles",
+    "phone": "(601) 960-1515",
+    "website": "https://www.msmuseumart.org",
+    "hours": {
+      "general": "Dawn to dusk daily",
+      "museum_hours": "Tuesday-Sunday 10:00 AM - 5:00 PM"
+    },
+    "admission": {
+      "garden": "Free",
+      "museum": "Separate admission for museum"
+    },
+    "parking": {
+      "available": true,
+      "type": "Museum parking garage",
+      "spaces": "200+",
+      "cost": "First 2 hours free with validation"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Fully accessible paved paths"
+    },
+    "duration": "30 minutes - 1 hour",
+    "best_for": [
+      "Art lovers",
+      "Lunch break visitors",
+      "Photographers",
+      "Peaceful walks"
+    ],
+    "seasonal_notes": "Beautiful year-round; spring and fall ideal",
+    "nearby_attractions": [
+      "mississippi-museum-of-art",
+      "old-capitol-museum"
+    ],
+    "transportation": {
+      "public_transit": "Downtown JATRAN routes",
+      "rideshare": "Easy downtown access"
+    },
+    "social_media": {
+      "facebook": "msmuseumart",
+      "instagram": "@msmuseumart"
+    },
+    "hashtags": [
+      "#MMArtGarden",
+      "#PublicArt",
+      "#UrbanOasis"
+    ],
+    "reviews": {
+      "google": "4.7/5 (200+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": true,
+      "contact": "(601) 960-1515",
+      "combined_with_museum": true
+    },
+    "special_events": {
+      "venue_rental": true,
+      "outdoor_events": "Concerts and gatherings",
+      "capacity": "Up to 200 for standing events"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mma-garden.jpg",
+        "caption": "Sculpture garden with native plants",
+        "credit": "Mississippi Museum of Art"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "duling-hall",
+    "name": "Duling Hall",
+    "category": "Entertainment Venue",
+    "subcategory": "Concert Hall",
+    "description": "Historic renovated school auditorium (1929) in Fondren district converted to concert venue and event space. Features live music, comedy shows, private events, and community gatherings. Intimate 550-capacity standing room venue with excellent acoustics.",
+    "highlights": [
+      "Historic 1929 school auditorium",
+      "550-capacity concert venue",
+      "Intimate live music experience",
+      "Beautiful historic architecture",
+      "Heart of Fondren entertainment scene"
+    ],
+    "address": "622 Duling Avenue, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3367,
+      "longitude": -90.1798
+    },
+    "neighborhood": "Fondren District",
+    "distance_from_downtown": "4.5 miles",
+    "phone": "(601) 292-7121",
+    "website": "https://www.dulinghall.com",
+    "hours": {
+      "event_times": "Vary by show",
+      "box_office": "Check website for hours"
+    },
+    "admission": {
+      "general": "Varies by event ($15-50 typical)",
+      "notes": "Advance tickets recommended"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free lot and street parking",
+      "spaces": "100+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Ground floor accessible; designated wheelchair areas"
+    },
+    "duration": "2-4 hours depending on event",
+    "best_for": [
+      "Music lovers",
+      "Young professionals",
+      "Date nights",
+      "Live entertainment"
+    ],
+    "seasonal_notes": "Year-round events; summer outdoor concerts nearby",
+    "nearby_attractions": [
+      "multi-venue-fondren-fun",
+      "fondren-district"
+    ],
+    "transportation": {
+      "public_transit": "JATRAN Route 13",
+      "rideshare": "Popular pickup location"
+    },
+    "social_media": {
+      "facebook": "DulingHall",
+      "instagram": "@dulinghall",
+      "twitter": "@DulingHall"
+    },
+    "hashtags": [
+      "#DulingHall",
+      "#FondrenDistrict",
+      "#LiveMusic"
+    ],
+    "reviews": {
+      "google": "4.6/5 (400+ reviews)",
+      "yelp": "4.5/5"
+    },
+    "reservation_required": true,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Full venue rental available",
+      "capacity": "550 standing, 300 seated"
+    },
+    "images": [
+      {
+        "url": "https://example.com/duling-hall.jpg",
+        "caption": "Historic auditorium during concert",
+        "credit": "Duling Hall"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "parham-bridges-park",
+    "name": "Parham Bridges Park",
+    "category": "Park",
+    "subcategory": "Athletic Complex",
+    "description": "Large public park complex featuring multiple sports facilities including baseball/softball fields, soccer fields, walking trails, playground, and picnic areas. Popular for youth sports leagues, tournaments, and family recreation.",
+    "highlights": [
+      "Multiple baseball/softball diamonds",
+      "Soccer fields and practice areas",
+      "Paved walking/jogging trails",
+      "Large playground equipment",
+      "Tournament-quality facilities"
+    ],
+    "address": "6631 Old Canton Road, Ridgeland, MS 39157",
+    "coordinates": {
+      "latitude": 32.4123,
+      "longitude": -90.1234
+    },
+    "neighborhood": "Ridgeland (Jackson metro)",
+    "distance_from_downtown": "12 miles north",
+    "phone": "(601) 856-7468",
+    "website": "https://www.ridgelandms.org/parks",
+    "hours": {
+      "general": "Dawn to dusk daily"
+    },
+    "admission": {
+      "general": "Free",
+      "field_rental": "Fees apply for organized sports"
+    },
+    "parking": {
+      "available": true,
+      "type": "Free parking lots throughout",
+      "spaces": "500+"
+    },
+    "accessibility": {
+      "wheelchair_accessible": true,
+      "ada_compliant": true,
+      "notes": "Paved paths and accessible restrooms"
+    },
+    "duration": "1-4 hours",
+    "best_for": [
+      "Youth sports",
+      "Families",
+      "Joggers",
+      "Tournament spectators"
+    ],
+    "seasonal_notes": "Peak usage spring and fall for sports seasons",
+    "nearby_attractions": [
+      "renaissance-at-colony-park"
+    ],
+    "transportation": {
+      "public_transit": "Not available",
+      "rideshare": "Available"
+    },
+    "social_media": {
+      "facebook": "CityofRidgeland"
+    },
+    "hashtags": [
+      "#ParhamBridgesPark",
+      "#RidgelandMS",
+      "#YouthSports"
+    ],
+    "reviews": {
+      "google": "4.4/5 (250+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "field_rental": true,
+      "tournaments": "Regular youth sports tournaments",
+      "contact": "(601) 856-7468"
+    },
+    "images": [
+      {
+        "url": "https://example.com/parham-bridges.jpg",
+        "caption": "Baseball fields and walking trails",
+        "credit": "City of Ridgeland"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "mayes-lake",
+    "name": "Mayes Lake at LeFleur's Bluff",
+    "category": "Outdoor Recreation",
+    "subcategory": "Lake",
+    "description": "Scenic 305-acre lake within LeFleur's Bluff State Park offering fishing, kayaking, canoeing, and paddleboarding. Peaceful natural setting with wooded shoreline, fishing pier, and boat rental. Popular for bass fishing and peaceful paddle trips.",
+    "highlights": [
+      "305-acre fishing and recreation lake",
+      "Kayak and canoe rentals available",
+      "Excellent bass fishing",
+      "Peaceful wooded setting",
+      "Fishing pier and boat launch"
+    ],
+    "address": "2140 Lakeland Drive, Jackson, MS 39216",
+    "coordinates": {
+      "latitude": 32.3287,
+      "longitude": -90.1534
+    },
+    "neighborhood": "Northeast Jackson",
+    "distance_from_downtown": "5.2 miles",
+    "phone": "(601) 432-2552",
+    "website": "https://www.mdwfp.com/parks-destinations/state-parks/lefleurs-bluff",
+    "hours": {
+      "general": "Dawn to dusk daily",
+      "rental_office": "Seasonal hours vary"
+    },
+    "admission": {
+      "park_entry": "$4 per vehicle (Mississippi residents)",
+      "kayak_rental": "$15-25",
+      "fishing": "Mississippi fishing license required"
+    },
+    "parking": {
+      "available": true,
+      "type": "State park parking",
+      "spaces": "50+ near lake"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Fishing pier accessible",
+      "notes": "Paved paths to pier; natural shoreline elsewhere"
+    },
+    "duration": "2-6 hours",
+    "best_for": [
+      "Anglers",
+      "Kayakers",
+      "Nature lovers",
+      "Photography"
+    ],
+    "seasonal_notes": "Best fishing spring and fall; summer very hot",
+    "nearby_attractions": [
+      "lefleurs-bluff-state-park",
+      "mississippi-museum-of-natural-science"
+    ],
+    "transportation": {
+      "public_transit": "Limited JATRAN service",
+      "rideshare": "Available to park entrance"
+    },
+    "social_media": {
+      "facebook": "LeFleursBluffStatePark"
+    },
+    "hashtags": [
+      "#MayesLake",
+      "#MississippiFishing",
+      "#Kayaking"
+    ],
+    "reviews": {
+      "google": "4.5/5 (300+ reviews)"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "fishing_tournaments": "Occasional organized events",
+      "contact": "(601) 432-2552"
+    },
+    "images": [
+      {
+        "url": "https://example.com/mayes-lake.jpg",
+        "caption": "Lake view with kayakers",
+        "credit": "MS State Parks"
+      }
+    ],
+    "virtual_tour": null,
+    "last_updated": "2024-01-15",
+    "status": "Open"
+  },
+  {
+    "id": "hal-and-mals",
+    "name": "Hal & Mal's Restaurant and Brewery",
+    "category": "Entertainment Venue",
+    "subcategory": "Live Music Restaurant",
+    "description": "Jackson institution since 1985 combining restaurant, brewery, and live music venue. Historic building downtown features Southern comfort food, craft beer, multiple bars, and outdoor beer garden. Regular live music, special events, and Mal's St. Paddy's Parade headquarters.",
+    "highlights": [
+      "Jackson landmark since 1985",
+      "On-site craft brewery",
+      "Multiple bars and music stages",
+      "Outdoor beer garden",
+      "Home of Mal's St. Paddy's Parade"
+    ],
+    "address": "200 Commerce Street, Jackson, MS 39201",
+    "coordinates": {
+      "latitude": 32.3045,
+      "longitude": -90.1867
+    },
+    "neighborhood": "Downtown Jackson",
+    "distance_from_downtown": "0.2 miles",
+    "phone": "(601) 948-0888",
+    "website": "https://www.halandmals.com",
+    "hours": {
+      "monday": "11:00 AM - 10:00 PM",
+      "tuesday": "11:00 AM - 10:00 PM",
+      "wednesday": "11:00 AM - 10:00 PM",
+      "thursday": "11:00 AM - 11:00 PM",
+      "friday": "11:00 AM - 12:00 AM",
+      "saturday": "11:00 AM - 12:00 AM",
+      "sunday": "11:00 AM - 9:00 PM"
+    },
+    "admission": {
+      "restaurant": "Free entry",
+      "live_music": "Cover charge varies ($5-15)",
+      "meals": "$10-25 per person"
+    },
+    "parking": {
+      "available": true,
+      "type": "Street parking and nearby lots",
+      "spaces": "Limited street parking"
+    },
+    "accessibility": {
+      "wheelchair_accessible": "Partial",
+      "ada_compliant": "Main floor accessible",
+      "notes": "Historic building with some limitations"
+    },
+    "duration": "1-4 hours",
+    "best_for": [
+      "Live music fans",
+      "Foodies",
+      "Beer enthusiasts",
+      "Local culture"
+    ],
+    "seasonal_notes": "St. Patrick's Day celebration is major annual event",
+    "nearby_attractions": [
+      "old-capitol-museum",
+      "thalia-mara-hall"
+    ],
+    "transportation": {
+      "public_transit": "Downtown JATRAN hub",
+      "rideshare": "Popular downtown destination"
+    },
+    "social_media": {
+      "facebook": "HalandMals",
+      "instagram": "@halandmals",
+      "twitter": "@HalandMals"
+    },
+    "hashtags": [
+      "#HalAndMals",
+      "#JacksonMS",
+      "#LiveMusic"
+    ],
+    "reviews": {
+      "google": "4.3/5 (1200+ reviews)",
+      "tripadvisor": "4.0/5",
+      "yelp": "4.0/5"
+    },
+    "reservation_required": false,
+    "group_tours": {
+      "available": false
+    },
+    "special_events": {
+      "private_rental": true,
+      "event_space": "Multiple rooms available",
+      "capacity": "Up to 500 for events",
+      "st_paddys_parade": "Annual March celebration"
+    },
+    "images": [
+      {
+        "url": "https://example.com/hal-and-mals.jpg",
+        "caption": "Historic building exterior",
+        "credit": "Hal & Mal's"
       }
     ],
     "virtual_tour": null,
